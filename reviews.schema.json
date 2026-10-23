@@ -1,0 +1,18 @@
+{
+ "$schema":"https://json-schema.org/draft/2020-12/schema","title":"Reviews feed v1","type":"object",
+ "required":["schemaVersion","source","isExample","generated","place","summary","reviews"],
+ "properties":{
+  "schemaVersion":{"const":1},
+  "source":{"enum":["google_business_profile","google_places","manual"]},
+  "isExample":{"type":"boolean","description":"true = demo/placeholder data, must never be shown as real"},
+  "provenance":{"type":"string"},
+  "generated":{"type":"string","format":"date-time"},
+  "place":{"type":"object","required":["name"],"properties":{"name":{"type":"string"},"placeId":{"type":"string"},"gbpLocation":{"type":"string"},"address":{"type":"string"},"reviewUrl":{"type":"string","format":"uri"},"mapsUrl":{"type":"string","format":"uri"}}},
+  "summary":{"type":"object","required":["averageRating","totalReviews"],"properties":{"averageRating":{"type":"number","minimum":1,"maximum":5},"totalReviews":{"type":"integer","minimum":0},"note":{"type":"string"}}},
+  "reviews":{"type":"array","items":{"type":"object","required":["id","author","rating","text","created"],"properties":{
+    "id":{"type":"string"},"author":{"type":"string"},"photo":{"type":["string","null"]},
+    "rating":{"type":"integer","minimum":1,"maximum":5},"text":{"type":"string"},
+    "created":{"type":"string","format":"date-time"},"updated":{"type":"string","format":"date-time"},
+    "reply":{"type":["object","null"],"properties":{"text":{"type":"string"},"updated":{"type":"string"}}}}}}
+ }
+}

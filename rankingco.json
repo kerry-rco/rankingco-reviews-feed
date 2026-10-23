@@ -1,0 +1,1282 @@
+{
+ "schemaVersion": 1,
+ "source": "google_business_profile",
+ "isExample": false,
+ "provenance": "REAL reviews: snapshot pulled 2026-10-22 from the public endpoint used by the current Duda 'Google Reviews' app (googlereviews.api-files.com) for site dc6a3147. Data originates from Google Business Profile.",
+ "generated": "2026-10-22T03:00:00Z",
+ "place": {
+  "name": "RankingCo",
+  "placeId": "ChIJ0Uwx6tZbkWsRckAFlPHZQwQ",
+  "gbpLocation": "accounts/107203499451749939998/locations/11761329554037562802",
+  "address": "20 Bailey Street, West End QLD 4101",
+  "reviewUrl": "https://search.google.com/local/writereview?placeid=ChIJ0Uwx6tZbkWsRckAFlPHZQwQ",
+  "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ0Uwx6tZbkWsRckAFlPHZQwQ"
+ },
+ "summary": {
+  "averageRating": 4.96,
+  "totalReviews": 140,
+  "note": "Counts reflect reviews in this feed; Google profile total may differ slightly."
+ },
+ "reviews": [
+  {
+   "id": "AbFvOqnaYoQ2AwxFi0HJWVOSOV0rOdSIG7U2q0MRyDGVPbdhrOF8ZDkDybJJck5YNZZRGIngRFacxQ",
+   "author": "Sunny Miezis",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXqVte27cbmZ9fNOWEAxtypEz7xAHtZ-twziA-1kFWupSBt_Js=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Jake Gilbert was amazing to work with on my business. As a mortgage broker, trying to increase my leads through Google ads is important to me and Jake's expertise was indispensable in helping me explore options and gain traction in the industry.\n\nCould not recommend highly enough - thanks Jake and the team there!",
+   "created": "2026-10-13T23:37:21.882807Z",
+   "updated": "2026-10-13T23:37:21.882807Z"
+  },
+  {
+   "id": "AbFvOqnOkKHk9IfUIdANp7apCoLamHl5-sdicY_F1bQ6zc1Jr4qalHgI6V7vl3if4jbWJESp84Klvg",
+   "author": "Chris Green",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocI8w8QqERHfA4jEb7mRFc8C2D6YCJ0PEEQNpbyzzafFRE7f7g=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "CJG Tax, Assurance and Advisory Services\n\nRanking Co has been the number 1 best thing that has happened to my business. I was lucky enough to have been approached by a sales rep from ranking co when I was on the verge of shutting down my Google ads campaign due to how poorly google had set it up for me.\n\nTo say Ranking Co has been an absolutely amazing service is a complete understatement. Sam Fields is an absolute Wizard at Google Ads, and his work has resulted in a large number of fantastic leads. In addition to that, he is one of the nicest most patient people you could ask for. Their whole team has been a delight to deal with.\n\nMy my own admission, I have been a very difficult client for them due to a number of things, and the team have been patient with me and understanding when in reality, they had every right to terminate our relationship due to the difficulty I've presented for them.\n\nI am so unbelievably grateful for the team at Ranking Co, and have found a business partner for life. Thank you Sam and the team, I appreciate you endlessley.",
+   "created": "2026-09-19T22:44:57.269213Z",
+   "updated": "2026-09-19T22:44:57.269213Z"
+  },
+  {
+   "id": "AbFvOqm9NjIfrm26EJAVll_Iz9prAfOexM69PlVVebZGZSvvrLn7X2ioKM7FYin2SRSMZ8hM1QQzTA",
+   "author": "Georgia Lu",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXIoTYI3_Tn6n8O_aycsdt8wSR9eETjf4yFXOgNq7_oreQZ1GLW=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "We’ve had a fantastic experience working with RankingCo. I was quite conservative and hesitant at the beginning because it was my first time using a company like this, but I’m so glad I gave them a chance.\n\nA special thank you to Hamza, who has been amazing throughout the process. He’s professional, responsive, responsible, and always takes the time to explain everything clearly. His communication has been excellent, and it’s obvious he genuinely cares about helping his clients achieve the best results.\n\nSince working with RankingCo, we’ve definitely seen benefits for our business, and I look forward to seeing what we can achieve together in the future.\n\nI highly recommend RankingCo to any business looking to improve their online presence. Thanks again, Hamza, for all your hard work and support!",
+   "created": "2026-07-23T03:36:38.909996Z",
+   "updated": "2026-07-23T03:36:38.909996Z"
+  },
+  {
+   "id": "AbFvOqmcV7nHaastbUeQoDcsDi7jrsVH9iTK50zuGWh3ExMUAZNhBkAAUwJPdQLo7LKx0_nfY501rw",
+   "author": "Paul Morgan",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJgWmwp3G3KMCXEX8u6Y-QILq-6PDUXti3rs5QcihnkAUH10w=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Hamza has been fantastic to work with. His attention to detail and professionalism has made the whole process easy. He genuinely cares about achieving the best results. Highly recommended",
+   "created": "2026-07-21T02:48:06.798952Z",
+   "updated": "2026-07-21T02:48:06.798952Z"
+  },
+  {
+   "id": "AbFvOql84AUb-rnVTFbNuwTFsWhuygxVFZreqKvY5okaDiLRw-6XZSknou92RW6-EE0F7sN6NhzMyA",
+   "author": "Marine Energy Systems",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLf-3sRehPGYxZypb80FIoPCzdGCk1dXhoILgHEXc3eLkEiky8=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Been using Sam from Ranking Co for over a year now and its made a huge difference on our business seeing an increase of nearly 70% on average in orders compared to last year cant recomend Sam enough",
+   "created": "2026-06-23T22:17:49.352481Z",
+   "updated": "2026-06-23T22:17:49.352481Z"
+  },
+  {
+   "id": "AbFvOqlmveoBBjsiCJAaHT7NXh1n-Pyv7yeX6GNv48xLjCdT4j5QupdUt7uNkP_HgK-YIsmyyiJfrA",
+   "author": "James Mak",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUUzV1_sUw9Plc_Hx8y6r_1yv-RfKTQc_RkgNTshhFqM4ArkJw3=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Super happy that i chose Ranking Co, at first i was hesitant as i thought they would be like every other Google Ads agency out there where they waste time and do the bare minimum, but ever since onboarding them they have helped increase sales as well as bring more exposure to my company. Would highly recommend them",
+   "created": "2026-06-18T15:24:08.800042Z",
+   "updated": "2026-06-18T15:24:08.800042Z"
+  },
+  {
+   "id": "AbFvOqlktn8y7HRyj-4XZMPRe8zSfK1o1uG6n1L55wMJ8HPnLxmQ-30Y73pCqC4G9YxJPGNAe-oZzw",
+   "author": "Doug Lindqvist",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocL3lUxktYtLAkUFH4XQg3Y2tPUofu-uqHxyO960l1Hw94cQFQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Sam and Amber are great to deal with. Professional and thorough.",
+   "created": "2026-05-18T04:42:59.357924Z",
+   "updated": "2026-05-18T04:42:59.357924Z"
+  },
+  {
+   "id": "AbFvOqlhOwdkwUIX_Uh_EDe-m59bveIuA3RDxQlANLOD-wRr-T33HN3CZXhjC5j3td52U0YxPYRr",
+   "author": "Peter Nicholson",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVZpyPC8qxvzgk5wKJyeqKO489IkPYFw0Od8WM-MKH8JY5x0ko=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Hi, Sally and RankingCo have been working with Nicholson Fine Foods for about 9 months now. During that time they have performed a number of tasks including the creation  and implementation of our digital marketing strategy and plan. We have seen good results over that time, especially in the lead up and post Christmas. This was identified as a priority in the strategy and plan. Sally is easy to work with and understands her service tools well. I recommend both Sally and RankingCo to anyone wanting to build on their online sales. Cheers Peter",
+   "created": "2026-04-13T23:45:20.010321Z",
+   "updated": "2026-04-13T23:45:20.010321Z"
+  },
+  {
+   "id": "AbFvOqnt372Vv7IL-e7qhR0caEXAvGkbDdJsdiVxP7fjNQ8TXYWnh3AmLL80O3eMg6TnS-Y1MfRHFg",
+   "author": "Benno Giuliani",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUdIGT4eI-OpEr_m_GI9LlUXvDYB1B72mbpx7qFr1FtvL53L208=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Great experience working with RankingCo. Professional team, clear communication, fast response times, and a genuine focus on results.",
+   "created": "2026-03-12T01:27:45.958616Z",
+   "updated": "2026-03-12T01:27:45.958616Z"
+  },
+  {
+   "id": "AbFvOqn1xhlmlKFSqPiadr6yWbju1iZUvRqkk1LCX3Nj7UbZbzCdslpluFu6ILKYnlLjg2gluN3_Dg",
+   "author": "Amisha Shah",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWJ5dwWbjzP-MRTbQe6mupZukGIqnS4ojxF4hdAyVqrnZMIWdnDBw=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I had a really positive experience with Amber. The initial consultation was inciteful and informative and it was focused to allow Amber to guage  exactly what my requirements were. She was prompt in sending me information for thought and was also open to hearing areas of concern and helping me navigate through it.\nWhether you choose to proceed with Rankingco or not, the level of service was excellent and very helpful. I highly recommend having that initial consultation with Amber.",
+   "created": "2026-01-08T04:31:47.564070Z",
+   "updated": "2026-01-08T04:31:47.564070Z"
+  },
+  {
+   "id": "AbFvOqkBtXCndL_nFaTrz0ozQk031GMPOi2IcaKet2i39jKQGH9bL8Zn0oqaML399Du0mtfaERbNiA",
+   "author": "Mim Kleiberg",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJ1hJA9P5PQFoCNRQF3KYAZt_AYvp2jOZKiRQoEvz4f5Dik7g=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I've had the best experience with RankingCo. My account manager Hamza goes above and beyond to make sure ai get the best results. Amazing numbers on my Google Ads!",
+   "created": "2025-12-19T19:41:28.528854Z",
+   "updated": "2025-12-19T19:41:28.528854Z"
+  },
+  {
+   "id": "AbFvOqlRClhDBNvtMXTVraZbQ8VSiRornIUCLQOyJ0_6VIEIkwc45eGBAHvEA1fB2kVhGhLkHC2D",
+   "author": "Charles McArthur",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWSC480y1Szh4OFc3xfPLFEw38wlRBYosrvDHNmURVYdb6jUDJvFw=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I was originally withi another service provider and not particularly impressed with their results but I was contacted time and time again from Sally8 who ultimately won me over with her sheer resolve to win me as a client. By the time I was ready, Sally had been promoted and I was handed to Hamza (my man). It always refreshing to speak with somebody who knows their shit. Hamza knows the business and speaks to me in plain English. The results are coming in, we are building momentum so if you are a business in Brisbane, I can't think of a reason why you wouldn't be with Rankingco and Hamza (The Man - The legend that is)",
+   "created": "2025-12-19T12:42:57.268648Z",
+   "updated": "2025-12-19T12:42:57.268648Z"
+  },
+  {
+   "id": "AbFvOqnOhDSlhPHaWpUpCyL_jYz0cKq4C7tEfDymG9K-20xAAXO-uXs6TJlBZocYXMY0taWeGvMoXA",
+   "author": "Kevin Shipp",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjU-l8G6JBuZNtr_ukVeZ5tA1UPVnNzfOmuSXa8fuL0DjPvWr65r=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I recommend Hamza from Ranking Co.\nHe and his team have been diligent in caring for the google search management of my business which keeps me one step ahead of my competitors.\nThanks Hamza and the team 👌👍",
+   "created": "2025-12-19T05:42:59.817119Z",
+   "updated": "2025-12-19T05:42:59.817119Z"
+  },
+  {
+   "id": "AbFvOqntXEvRtoZyRzGKgCep1Kh72XyJPK-56yQp9CL0kv71JZfQAlzY8-4BPyvXe5K4uO3Y84IYuQ",
+   "author": "Brad Lainson",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKbo_7ELpN5sRR0jKyKFeTdV-mzkP0Hph5KLFfGvmu3Lg1f8ZQ=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Not just another faceless ad agency outsourcing OS or using bots, Hamza and Ranking Co. have improved our Google ads effectiveness and reach, with a friendly and personalised approach.\nBeing a busy E-commerce owner, it frees up my time to focus on what we do best.",
+   "created": "2025-12-19T05:17:32.316202Z",
+   "updated": "2026-05-07T23:48:15.080676Z"
+  },
+  {
+   "id": "AbFvOqmq_LSCA5Zjla9GULN1vcnsjoY5hWff_namh_f6Aw_QbVvWUDYCVn4RtBM96iSXmSpiELS2Kw",
+   "author": "J Proposch",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVIfqeBZXOqfhhskPdyvsOELSTw_keDijTo2wJyaAiqEV3Mw4Y=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Have been using RankingCo for a few years now and cannot praise their work enough. Over the weekend, our website was compromised, which impacted our Google Ads. Even though my account manager was on annual leave, Amber, the CEO personally stepped in, monitored the situation, and provided an update at 5am on a Monday morning. She also gave us advice on how to secure our website even though that’s not part of the work they do for us.\n\nThat level of dedication and customer service is truly amazing!\n\nRankingCo consistently goes above and beyond to support our company. Their responsiveness, professionalism, and genuine care make them stand out from any other company I’ve worked with.\n\nI couldn’t recommend them more highly.",
+   "created": "2025-10-27T00:49:48.730807Z",
+   "updated": "2025-10-27T00:49:48.730807Z"
+  },
+  {
+   "id": "AbFvOqlytpuhW-CBv5s9Q5o1opFG8QwndOexvY06dCyueyeJUo4nfxUaTAZYhheHsPKxkA6tQ-5ZTA",
+   "author": "vitez patrik",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjW2ooLaJZTYcPYvw2mf9yiwgDEDBMcMvWmlFx9PLCiUYTlWeOo=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "At first I was hesitant when I spoke with their team as I’ve heard it all before from other agencies - but Im glad I took the leap. Since they took over my ads campaign I actually am getting calls and when I email my account manager he always responds.",
+   "created": "2025-10-25T12:03:15.823255Z",
+   "updated": "2025-10-25T12:03:15.823255Z"
+  },
+  {
+   "id": "AbFvOqkb9CFV2Fol-z_ng9Mps3Ug4LQVGBnXkQvOCUv382tBqYyYWez8E5gHt7c5SxzyBsPNIsTh",
+   "author": "Nippon Imports",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUIxGCGuZYP6C3GDumUNQOI53tGaGliFWkyMMrw2gJ8TvKdl1w=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "We couldn’t be more grateful for the amazing work this team has been doing behind the scenes! A special shoutout to our account manager, Hamza - he’s truly top-notch and a pleasure to work with. After dealing with multiple agencies and countless empty promises, these guys actually deliver real results. Highly recommended!",
+   "created": "2025-10-16T03:38:37.017754Z",
+   "updated": "2025-10-16T03:38:37.017754Z"
+  },
+  {
+   "id": "AbFvOqmR-EzBRVqVOcj5jJXmmg8n1ElMXynXGHT0dMk_0z6vhIM-VarKU9TM4Pp74OneR_6_eNX3pQ",
+   "author": "Andrew Stafford",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKyUNmKN4YloxzY2Bk0XNMW0DUFhfKTgcs2GbUS9IpKpxFUng=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Great results and service from Rankingco. We’ve worked with large agencies in the past who have charged a lot more and promised guaranteed results, but didn’t deliver. It was refreshing to deal with the team at Rankingco. Our marketing manager Aimee  has achieved fantastic results for us. We actually went backwards with some other agencies.Aimee and her team take the time to truly understand your business and then formulate add campaigns  that target the right audience. Rankingco worked within our budget and achieved better results than other agencies with less money.\nIf you’re looking for a personalised service from people who really understand your needs, we definitely recommend Rankingco. Thanks, guys!",
+   "created": "2025-10-03T06:50:15.627413Z",
+   "updated": "2025-10-03T06:50:15.627413Z"
+  },
+  {
+   "id": "AbFvOqkgp-udxYLJygp9f3S7WC_s_eWMXN4YJ-tH6m2cPZYAqt7-sjuUhKqzAW0GlnehgbcSZa-RCA",
+   "author": "richard Martinez",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJmA02V-lxEbCv_JWB_p1yySb6jQOU4PMy2SP9bztxHFhXK8xs=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "RankingCo is a pleasure to work with, they have helped me grow my business a lot, they are very professional and knowledgeable, they keep up with latest marketing trends, I would definitely recommend them!",
+   "created": "2025-09-16T07:18:42.377667Z",
+   "updated": "2025-09-16T07:18:42.377667Z"
+  },
+  {
+   "id": "AbFvOqn43_wVuLdF2vXbWFL8_fdegJhyEQtnn_0_mqZXqybwBzl29UzzueaAAHNgU_PIQYt86_7NtQ",
+   "author": "Boniface Korir",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKVJHMsj9BxpKjEUvlXrKZkHMbfR7ScPX5RQBXCVGVRLN_YGg=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Been thinking about getting help for a while but was scared of the commitment to one company. I liked their approach and since signing up have been happy with the sales.",
+   "created": "2025-09-04T00:43:47.632949Z",
+   "updated": "2025-09-04T00:43:47.632949Z"
+  },
+  {
+   "id": "AbFvOqmCOW5aqWx00CJQO_5ctMr959Pe6WG1QKcZSOTZWfvPS4KIkiDRDC6bYa-UouWC7MzcKwIajg",
+   "author": "Joe Pratt",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLjzb1JRZG7CXG-fOmjoZK7Z1SRUQzU-YUh07uAGbfUOszeUQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Ranking co have been helping us manage our google ads account. Hamza has been excellent! He is professional and very easy to work with. Highly recommend their services.",
+   "created": "2025-08-04T04:30:38.611730Z",
+   "updated": "2025-08-04T04:30:38.611730Z"
+  },
+  {
+   "id": "AbFvOqmV9wPKfD3m42LPUPbXz_R8gy3HfIWkE-zAYR8EO8IH6BOefLAwKvcNsTS5Uc1TM5SnaZ2J5g",
+   "author": "Hubert Auld",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUHKxLdYyFMddWR_l6sH00X8mV0ny64ouvtXabGY9upZE5tNCDGng=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Team are very friendly, great experience. My account agent is Hamza Butt who is a pleasure to deal with and very responsive.",
+   "created": "2025-07-25T02:57:47.686432Z",
+   "updated": "2025-07-25T02:57:47.686432Z"
+  },
+  {
+   "id": "AbFvOqn-q8-DKABhUVzpTDe8vHk53LCY1rpib3WF-oKZhAarjGbflnL-s71ePVxBIGxV2u7tcflE",
+   "author": "George Wine Valley Tours",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVX_Vf61i3C880l3NzpqoPpKEHEMEcZGvNhYqbV-IuWQZRz3cFMRQ=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Amber has been great, knowledge and experience has been proven to me here, I think this team is great and very trustworthy, avoid overseas  companies promising offshore bargains, this is good value service and Amber is clever and is a great person to deal with.\n\n#best #help #great #website #landing #pages\n\nAll the best from George #winevalleytours and #Hahndorf #cottage #cafe\n\n#marketingservices #seo #advertising #GoogleAds #socialmediamanagement #BrisbaneDigitalAgency",
+   "created": "2025-07-15T00:19:20.154270Z",
+   "updated": "2026-08-29T03:49:03.062062Z"
+  },
+  {
+   "id": "AbFvOqkEGJAhNLWZ0nvqtqARBhhoVBvqYtAgRhkZXQRl5pbzc7N23zn7H0eGgOazy_CXpPsbfnBP3g",
+   "author": "Daria Cooper",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjV1p9xb8Fe3znenELmeVPrySGpv-GMvOQHADuXl_jKr78eoVlGZ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "We’ve loved working with RankingCo — especially Tim Graham, whose expansive knowledge and helpful insights have really guided our campaigns in the right direction. We’ve been so impressed that we’ve now brought them on to manage advertising in other areas of our organisation as well. Highly recommend!",
+   "created": "2025-05-16T00:30:35.939710Z",
+   "updated": "2025-05-16T00:30:35.939710Z"
+  },
+  {
+   "id": "AbFvOqlCCNcTKrAw5dOKj4WJ6F9ibgwojVsXdvniIbyFiLLVzDJV0uNRFDjXtS-u1cB9_xPqqF-N",
+   "author": "ACG Plumbing",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVTdn392nBk9ofMbbQ90hBXSAQ7IN5jJ1fLKl8U3ZRg-Y0mrdj6JQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Oscar was exceptionally knowledgeable in identifying issues and improvements needed on our Google advertising. He was easy to understand, friendly and helpful and I would highly recommend his services.",
+   "created": "2025-04-28T01:04:30.255653Z",
+   "updated": "2025-04-28T01:04:30.255653Z"
+  },
+  {
+   "id": "AbFvOqlllTlkI6Vx0Abgl3A3EJmsxR5i-K7xlRiFqJhke3Q1BuKd5M0na8YVDbP1Z4qCna6sXHyAkA",
+   "author": "Order of the Lawn",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocIDsOasq4psro1Ie5YQFAxm56ZFkJatnFdUc2zyU971akmryQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I cannot recommend Tim and Ranking Co enough!\n\nThey have done a fantastic job of keeping up to date and managing all my ads, absolutely great to work with!",
+   "created": "2025-04-16T01:49:03.300750Z",
+   "updated": "2025-04-16T01:49:03.300750Z"
+  },
+  {
+   "id": "AbFvOqmfKK4p_tO3ZJ__a5m6benSKMsHgfytf6naSDSfav6SKIX-VbVKfpT9vOazjxPAR6UosN-Ixw",
+   "author": "Harry Thomas",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJ3tVPmosd21dzFz1HRpzx0jdWlZ37_bONmFVfA5CgLZwZW_Q=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Oscar McGown is extremely knowledgeable and honest. Relief when it comes to marketing.\n\nHis help has been extremely valuable and highly recommended this business.",
+   "created": "2025-04-15T04:31:17.483075Z",
+   "updated": "2025-04-15T04:31:17.483075Z"
+  },
+  {
+   "id": "AbFvOqn95u-VzzfAFpZWKxWTjQJjELXmpTmKemwT42eaqwzTU0SATS8SUANrCGdrXHUPNyEY46mb8g",
+   "author": "The Courthouse Collection",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjW-PW7F3x8wpNLsIRdMJ1anI62QJ0PuH2FuTHSTM4sGO0d70zk=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Tim Graham has been a refreshing change in managing my Google ads. Not only did he improve my add conversions but I felt more connected, informed and educated in the process. He took time to help me understand the process get involved and ultimately help to grow my business. I appreciate also that Tim was with me from the beginning and I did not get change of account management which has been a great cost in time and results with other google ad companies. Not only that he is a lovely guy to work with so be sure to request his expertise ! Bridget Liddell CEO",
+   "created": "2025-04-06T23:09:33.602732Z",
+   "updated": "2025-04-06T23:09:33.602732Z"
+  },
+  {
+   "id": "AbFvOqm93grIBUc3VqGDRUt4wK0ju0fSYcKd4pdkn9BRDJsV0C23F0mKvPJxPc_2M3WAXBuNXj8ukg",
+   "author": "Luke Mckay",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWXfXUHgGQ7AyEztGYppCByb8ZvOaHfKmd1QH7tsbpJTItiLI-X=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Advice that creates massive commercial value. Thank you Amber with your sage advice for Tyre Solutions and LeMans Motors!",
+   "created": "2025-03-27T23:54:30.810679Z",
+   "updated": "2025-03-27T23:54:30.810679Z"
+  },
+  {
+   "id": "AbFvOqkWxdCKCFyVfnhbrSmkyq_Cx66lNFyD0wf3cl_SfySRKm4Asd7-8A_3UlXwyFbGy6SnXjFN",
+   "author": "Rhianna Pride",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVIL4Pa5U-Qv8nwqKSCDWcie0Vuv-0yKr-Mv-zUJ4txJyj6-Ii0=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "We couldn’t be happier with Ranking Co and their exceptional service! From the very beginning, their team has gone above and beyond to ensure our ads perform at their best. But the real standout is Sam—he is an absolute rockstar!\n\nSam is always proactive, responsive, and genuinely invested in our success. He makes communication effortless, is incredibly easy to reach, and takes the time to explain everything in a way that makes sense. Whether it’s optimising our campaigns, tweaking strategies, or simply checking in to see how things are going, Sam is consistently on top of it. His dedication and hard work have made a noticeable impact on our results, and we can’t thank him enough!\n\nIf you’re looking for a team that truly cares about your business and delivers real results, look no further than Ranking Co. And if you get the chance to work with Sam, consider yourself lucky—he’s an asset to the company, and we couldn’t recommend him more highly!",
+   "created": "2025-02-27T00:06:08.235072Z",
+   "updated": "2025-02-27T00:06:08.235072Z"
+  },
+  {
+   "id": "AbFvOqmSD54L712BJyQP2T5KBTLm9lUwLoo8fBMRIvw92IcdOj0uU2Ka_pLGS9H5naG--NmAEYDy",
+   "author": "Independent EHS",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUW8int7WxFVn690Ulx6h3YbRquttqvj-yJRqIPArHP1gJI20kdAQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Connecting with the right suppliers is not always an easy process in particularly when trusting a 3rd party to help grow your business and it's market share through SEO. After using the wrong SEO partners and burning cash for a long time with little or no results we met RankingCO by chance as they identified errors we were not aware of previously when they cold called us. Hesitant at first we gave Tim at RankingCO the opportunity to prove us wrong and we are forever grateful they took the initial step and guided us through process. We continue to see increased traffic, sales and phone calls and highly recommend you taking the time to discuss your needs with Tim or the team. You won't regret it.",
+   "created": "2025-02-26T01:00:43.092153Z",
+   "updated": "2025-02-26T01:00:43.092153Z"
+  },
+  {
+   "id": "AbFvOqnHjKhYqm4ccy7jaoGuoyfBDFM0_ekXRvWYZYTJOlWQi9sSwbzfvZh3XwI45JOSKKGs8wfAaQ",
+   "author": "Daniel Cooch",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKc8elZzZzir7RfmDMU4hsagW1lgJxMQUIUaoaJUkaHgvdDLg=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Great Knowledge and Experience",
+   "created": "2025-02-18T01:17:17.881732Z",
+   "updated": "2025-02-18T01:17:17.881732Z"
+  },
+  {
+   "id": "AbFvOqlq8lWpnARWCRprDGf8Lu0vgoflJchbirUN9ARJiHBzmO8S18UGqAsl9VFkcDHZfV3DZP_87A",
+   "author": "Manuel Vapor",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKDd8JOLWM-aW5__cK8IB3OOPS9Z_02lJ3e74EJLtbYeyclHQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Hamza has been an absolute pleasure to work with. His expertise, professionalism, and dedication made the entire experience seamless and effective. He always took the time to provide valuable insights and was quick to assist with any questions I had. Although I had to pause my services due to personal reasons, I wouldn’t hesitate to work with him again in the future. Highly recommend his services to anyone looking for quality and reliability!",
+   "created": "2025-02-17T11:43:10.835840Z",
+   "updated": "2025-02-17T11:43:10.835840Z"
+  },
+  {
+   "id": "AbFvOqmdiaIbh5C2e_1ZD5CyV6uhwvgyL9NfuwxPF3k8vFmdW7_8G1f06euJkyyBjIDW7prRQtvd6Q",
+   "author": "Admin Plenish",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLOgVti_ky_Brv7HkC0f43ovxba0Vt9Ek8rmye-f18eo3GtBro=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "We've worked with RankingCo for Facebook Ads and Google Ads. James has been invaluable to helping us generate interest and new leads in our online course.\n\n- Goes above and beyond with advice and ideas for our business\n\n- Expert knowledge of Meta Ads and we rely on him now for Video Content and helping us to grow our business\n\nWe feel that James understands our business and would highly recommend working with him.",
+   "created": "2025-02-15T05:58:35.870822Z",
+   "updated": "2025-02-15T05:58:35.870822Z"
+  },
+  {
+   "id": "AbFvOqmx1nZnWCuimFmWThQZb5B4c988odaHhnZG4U5J847BGdLHCxWZ08raWbsW031KwWuQyFcRFg",
+   "author": "hadi mortazavi",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJ_I_fCRivPRHsoJc0lBlJeIWH0ur_lLWMCe_J_NbIq5tk0CQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Couldn’t explain the top tier service I have gotten. It all started with the manger calling me and setting me up personally. Then after that it has been over 3 months I have been talking with hamza. He has been nothing short of my guardian angel. From the calls and updates he has been making to the adds and money he has generated me. Again big thank you to rankingCo and a bigger one to hamza. Thanks",
+   "created": "2025-02-11T06:11:05.921148Z",
+   "updated": "2025-02-11T06:11:05.921148Z"
+  },
+  {
+   "id": "AbFvOqmTarUiz5WhvNZ9Ra38qbn-5U2sy72yuR2Nbk8pynngWwl9bnhdxroYze0LTOXLjMG4BjUP",
+   "author": "Kristi Vork",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWFchlo-x8W1r7vttgt98zXg4FJM7-gcswvV9KW7qD1H3-GNlyv=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "",
+   "created": "2025-02-07T06:19:22.040578Z",
+   "updated": "2025-02-11T08:16:37.558035Z"
+  },
+  {
+   "id": "AbFvOqmcH8sXO3CIVOubRQM5I4Zrm-s60wctARN8YihhQvOcPhpIN954-F-i3npvkpQ4otEiwSQYzQ",
+   "author": "Pommie P",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVayxh6Gpykx4W3CFaxPyTXjephc4A_aSpxME6THIKxvXI4FQU=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "RankingCo has been a great asset to my business.  The service & staff have helped me go from a start up business to getting clients on board! The representative I work with Hamza has really supported me throughout the GoogleAds process which anybody who’s not an IT Wiz knows how hard that is.  Additional work I needed to help with issues around my website they got on to it so efficiently. Super helpful 🙏🏻",
+   "created": "2025-02-07T05:54:43.287684Z",
+   "updated": "2025-02-07T05:54:43.287684Z"
+  },
+  {
+   "id": "AbFvOqk04ytODF7mLtBsLXk8winUSqGaCQ0wiFCMtVdOdHot9fK4_yJNhfo8HeZyKvyy6KySFubH",
+   "author": "Tim Cramer",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUECTkYVtq26WLZoLN6-2FrjQtDQoh4g03OIikx-s47B6u7Y_Cm=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I am forever grateful that I have become a client of Ranking Co.\nMy past experiences with Marketing Agencies have not been good, where they had left numerous issues within Google & GoDaddy.\nHamza from Ranking Co took on my account including the issues & has everything back on track & working the best it ever has.\nThe Managment led by Amber, who actually took time out talk to me about my issues & Hamza managing my marketing are completely genuine and very passionate  to help their clients. They are real people who care.\n\nSo thankful\nTim Cramer\nCalming Minds Hypnotherapy",
+   "created": "2025-02-06T06:20:02.165499Z",
+   "updated": "2025-02-06T06:20:02.165499Z"
+  },
+  {
+   "id": "AbFvOqnIIH0cZm1e2iubR7IUSXKmvN9Qz3_kLbtgAPkEMeRION2G_idvAcmHoqZjce6-Z-8tFylEUw",
+   "author": "Ethan Pether",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVmHriQHkxxjf5_GetKd5lRac7Qz9UD-U3Y38-cF5X4L5ClMk_h=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I’m currently working with Hamza from Ranking Co, and I have to say it's been a great experience so far. From our first meeting, Hamza took the time to understand what I needed for my business, and that really made a difference.\n\nDealing with Google Ads can be tricky, but Hamza has made the process much smoother and easier to navigate. He’s always available to answer my questions and provides clear, actionable advice. I appreciate how down-to-earth he is, making everything feel approachable.\n\nI have been in business for 5 years and it has been extremely difficult to find a marketing partner that wants to work with you and has the best interests at mind. Im very grateful to have found Hamza he is an asset to my business.\n\nIf you’re looking for someone reliable and effective in online advertising, I highly recommend Hamza. I’m looking forward to continuing our work together!",
+   "created": "2025-02-06T06:00:46.867428Z",
+   "updated": "2025-02-06T06:00:46.867428Z"
+  },
+  {
+   "id": "AbFvOql5l0iOJ8bIO3Z7JdEvorWpvzihxCyNhiIWDhrbWvME-puPq5VRW3QHpFu8QLOFUVExGn05MQ",
+   "author": "Elia Donati",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJgAb8XwyfV0VWH7Cfp_rXXLYD2viK5GQrniRnaAH3z_tRU4TA=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "They are the best at it, customer service is spot on and they do not try to hard sell, love it!",
+   "created": "2025-02-04T00:37:42.376601Z",
+   "updated": "2025-02-04T00:37:42.376601Z"
+  },
+  {
+   "id": "AbFvOqmV4gEoa9L6UoUwOwdix3wVSc9wA3uHEAxU9veFe9NOXaAQT664T06R6P8wOMF2CvIrcWSp_w",
+   "author": "Ben Talty",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLSjy2rJal8kBh7SvJ8O5xT1I5UUCcSMIeZJG1Y0l6rpO-pxw=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Tim has been exceptional with his work for our brand. He implemented different strategies to drive sales. Working with Tim has made me feel comfortable with running ads as initially I was unsure. His work has pushed my business to the next level.",
+   "created": "2025-01-24T04:53:05.471052Z",
+   "updated": "2025-01-24T04:53:05.471052Z"
+  },
+  {
+   "id": "AbFvOqkdTfuPy-SmmyLldFYCnalwFFuCsFgfV6Rq-tZLNLidbZnJFYdiXkZ8nO1Be0BsFH4Y4Adf",
+   "author": "Nicola Short",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJVCfvQ-pUAP7GjfXtKZ9nmZGjoGjsd51GsT4cNazxjsy6sfg=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Amber and her team have worked on my account for a few years now. They have always done a fantastic job. They came highly recommended and I have been thrilled by the service they have provided.\nWe now use them on our second business and they have been amazing.\nHighly recommend 😊",
+   "created": "2025-01-13T06:22:57.050805Z",
+   "updated": "2025-01-13T06:22:57.050805Z"
+  },
+  {
+   "id": "AbFvOqm_2bYwZ5J2IjpLgYzSkXSnkMXcaKricIAilpaXtTWsTR3wItyqEVWD73bIT7CVL_ydNV85bw",
+   "author": "Diamond Admin",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVaZ5BC-vsvJNFAuiAUDua07oQyNGHe2dVnB2Pu8--T0Nh2vKVC=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Very professional, strong knowledge on the industry, they have the right attitude they come back to me with strategies and answers wanting to help. Very happy with my experience.",
+   "created": "2025-01-12T22:26:00.547025Z",
+   "updated": "2025-01-12T22:26:00.547025Z"
+  },
+  {
+   "id": "AbFvOqlOLZc3Yle0l2vD9fe5STq3tji7q84Z1hCHf72P22jYFGOvUR7W3ebMj_6UDp8HO1cL66ho",
+   "author": "Lucy Downes",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjU03cl6gh11remCQDGCBKI1R9Fm_qpyAYYgirs0zBS6hbzORWE=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I had the pleasure of working with Tim Graham for over a year on a campaign that he created and worked on for me. It was great to see results so quickly and without much input required from me. I now have the confidence to run the campaign myself with the knowledge that I can recruit Tim again at any time to capitalise on his expertise. Thank you Tim for being patient, authentic and easy-going. I look forward to working with you again in the future.",
+   "created": "2025-01-10T06:38:57.010539Z",
+   "updated": "2025-01-10T06:38:57.010539Z"
+  },
+  {
+   "id": "AbFvOqkGUtqoLqEWW3ZRnurPSB820PUjelw_ybwNOMN2oCb4MFqdPfWFYWIzigMtKXxRJCgvt0eXCQ",
+   "author": "Bernice Legge",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocI6Oh-kCA_l6bl-JR2GrQ51hJNPSHgVCTHqBtlJkcYNscvsoQ=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I came to ranking go after another Company Wrecked My Google accounts. The Team at ranking co worked so Hard to Unlocked my Google accounts. They Knew the urgency and the Team had the Google account up and running within 3 Weeks. 4 month Down the track I have the best Account manager Tim which Guide me to make More sales. Thank you To Tim for your patience support and Help. I am Truly Grateful",
+   "created": "2024-12-18T22:54:47.752994Z",
+   "updated": "2024-12-18T22:54:47.752994Z"
+  },
+  {
+   "id": "AbFvOqn3IVbPQXsQOaNxRxvAN4KByZbGH5e3SajUzC8hGNIfrdFyp5w71QdBwGQef1Sp9ZxSJa4m",
+   "author": "Mylene Kuz",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJ-Of7gxF0AB0A7i7Ivu5RUmkZ0vna9LsPLUEXa_RYDS75T3A=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "The best!!!!!Amber and the team at Ranking Co. Were a pleasure to work with. Easy, fast and friendly. All what you could ask for.\n100% would recommend.",
+   "created": "2024-12-13T23:37:23.083288Z",
+   "updated": "2024-12-13T23:37:23.083288Z"
+  },
+  {
+   "id": "AbFvOqkooYsnjdE-5ytp3QrInDbQnXY51vE91OdCSEZPLyxdVADf7_lPbo5LRrbsijJfJm18yvWNCQ",
+   "author": "John Edward Piano",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjX39rp7J9NJyXfZBmbd6rSnllLG9oNBlkgWYghg_X-tSbSN478=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Amber and the team at Ranking Co. are literally the best!! 100% would recommend.",
+   "created": "2024-12-13T11:44:41.934646Z",
+   "updated": "2024-12-13T11:44:41.934646Z"
+  },
+  {
+   "id": "AbFvOqn8Z2gyOkTUjKEKk8OJYG1KUQ0T2D7BynQpQkcCqFT4bFY-Kv-gaD6hlHu45gXxJuPX11K2OQ",
+   "author": "Cherry Ibanez",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUNDBBIRKnVCgwjdtp1VGHeJG9fsBL9t5U2kwMOTI47DGng8t7x=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Amber and the Team at Ranking Co. are the best! It is really a pleasure working with them. Easy to deal with, fast, and friendly. All what you could ask for. 100% would recommend.",
+   "created": "2024-12-13T11:43:26.909931Z",
+   "updated": "2024-12-13T11:43:26.909931Z"
+  },
+  {
+   "id": "AbFvOqnKtA3JVYjRlWRW0cRluG2vbwPmjLSKpBvDTHkl0uB9n3JEHOKzek5RMGNI9q9DmI31slrb3Q",
+   "author": "Rodney Guddat",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKDPfaA2cO1P6VSaZOch2UgV_FzX8JjoGb31uQbKiwrkxjYwQ=s120-c-rp-mo-ba12-br100",
+   "rating": 1,
+   "text": "The worst experience I have ever had. I described what happened with previous experience.  I was promised the world. My experience was phone calls 3 hours out of radius.  Ads where titles didn't meet description. Tried to call guy sold service to me a few times with no response.  Absolutely disappointing service.  I am lost for words on how upset I am with the experience I had.",
+   "created": "2024-12-09T07:13:25.565045Z",
+   "updated": "2024-12-09T07:13:25.565045Z"
+  },
+  {
+   "id": "AbFvOqkaGe0mLBM5I7I2s8EeHN0zz_If6AqP5_JLxEuxFaQ9rJUB6nYSbM_JGk1JDYalp2xGmITJMA",
+   "author": "David Aulert",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKo96SRUDTZMErDm1hY3yajEx4idlmZBFrgkq5-AHY00sy3aA=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I recently had a great experience with these guys. Personally, I use a different company for my Google ad words, but I got a cold call from these guys to see if I was happy with my current company, Which I was not.\nOscar took great time to go through my campaign with me and where my current company was getting it wrong.\nThen contacted my company and told them all the holes in my ad words set up, to which my existing company agreed and made the necessary changes to improve my campaign.\nAfter making the changes within two weeks, my sales increased 30 to 35%. A noticeable Difference.\nIf it wasn’t for Rankingco I would’ve still been paying for a poor Google ad words campaign.\nSo based on this, if you are looking for a reputable company to do a good job, I would definitely recommend those guys. I may even move to them in the future, my existing company doesn’t Perform.\nThanks guys, well done!",
+   "created": "2024-11-19T01:39:41.329122Z",
+   "updated": "2024-11-19T01:39:41.329122Z"
+  },
+  {
+   "id": "AbFvOqlnQYSxKBCL6_nDkrluB5tMAAMdo1Ps2m1YR4qZWdh34jwNoPLXT2zo_wTjsPTcAlaNUEZQpA",
+   "author": "Greg",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJk1U0bX90ehdd8cXXKdMy0J-MOGKdDiRxRpIgxGFFrNQIt7w=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Very happy with Tim from ranking co service. He was great at explaining things to me as a total novice and helping me get results.",
+   "created": "2024-11-11T08:34:48.348772Z",
+   "updated": "2024-11-11T08:34:48.348772Z"
+  },
+  {
+   "id": "AbFvOqnwROsAcD4U34jICTc1MMI0kWKjXzgYeQoGNnpi89Wr4IQxwjocLkWKKqvL03BvxGv35Mu5",
+   "author": "Glen Martin",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXFpe7S-FaSvg44ilAtVGHLaMXD1wOHOh6Lfu6hdHNtOGjhT7UFuA=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Over the last 12 months, RankingCo has run a campaign for our Company, Emcare WA, and we have found Tim, our Client Success Manager to be very helpful as well as the ultimate professional.\nWe highly Recommend and Thank Tim, from RankingCo for their services.",
+   "created": "2024-09-16T02:40:31.185062Z",
+   "updated": "2024-09-16T02:54:42.890822Z"
+  },
+  {
+   "id": "AbFvOqkjaTZLC-9S_-IkbYmxIQLh49nq6gfazNztouOUtCR89i_eKHh9NG5iXo__fcHH7mqp2fCQ2w",
+   "author": "Deanna Stouppa",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLZCwvdVIkWiW6ygaCcsVttkoRqdKb5Vc3zP2NHBjMdGECAPg=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Tim is a joy to work with, I would not hesitate in recommending him and Ranking Co.",
+   "created": "2024-09-05T03:50:34.805236Z",
+   "updated": "2024-09-05T03:50:34.805236Z"
+  },
+  {
+   "id": "AbFvOqmMnVuwUCL2NWw41isbBXQ4M-8JBVCKzwo7oSWtfTsATP2eSJFbNEc9u7waX4dBRmK0y509",
+   "author": "Bernice Musu` Portelli",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjW_B64iXfq0hMyPVtecQAXNHeRXP7gwp1x1FezvfMIaAnoHiQkSgQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I have been using RankingCo service for my music business for almost a year and what I have to say is how professional they are.\nTim Graham is very helpful and always tries his best to help me out and make sure that I get enough clients.\nHe always checks on how my business is going and always discuss on how to improve the business. He always listens to different opinions and encouraged me to try different options with Google ads and also other business related stuff.\n\nI highly recommend RankingCo and thank you so much Tim for your constant help. 🙏🏻",
+   "created": "2024-08-26T11:10:51.263269Z",
+   "updated": "2024-08-26T11:10:51.263269Z"
+  },
+  {
+   "id": "AbFvOqm8QuA1P8F_U0HyAPvep7QhPhzt1XTVXug4iOTjqXoy-Rh4KX51oJ777wKjxJcOo7reFXCH1Q",
+   "author": "Suzanne Young",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKyUSGpAuBNNLecsiXLb8fc2IOcQIHg5NImREUEq268eNUiag=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I have just worked with Oscar on starting my account with RankingCo. He was very helpful and explained everything to me.",
+   "created": "2024-07-17T04:29:36.969022Z",
+   "updated": "2024-07-17T04:55:06.821565Z"
+  },
+  {
+   "id": "AbFvOqkEqOoA8egXYLKRFJaZKzEl2Dfbw46WVDOEYz7_D9zJvWfHlIauoG5uG48HzcYDnvletMsHTg",
+   "author": "Liam Sherman",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXDi5ruuttCQhCvDtd4SabP0XEyvhm9msOZsr3C3ntXpNMOhNQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Absolutely loved me experience with RankingCo. Aimee was incredible, so friendly and approachable. We worked through a lot and they assisted me majorly in getting my buisness to the next level and next steps. The whole company are super supportive and well managed. Thank you team and especially thank you Aimee",
+   "created": "2024-07-02T23:56:29.495434Z",
+   "updated": "2024-07-02T23:56:29.495434Z"
+  },
+  {
+   "id": "AbFvOqmn_W80rLCgKlFENqjXsH3EIjtHAvLdqksbUxstBxtsd5udBzgjqFz8Jp_KwJTl2PXUEs2WVg",
+   "author": "Harry Solanakis",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWI1YHkVV1BM1n8C1c747aN2WKZ5vmONI0wrE1AtOjzrJGCgks=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Tim has been awesome, knowledgeable and very helpful. Very happy to have used RankingCos services. Will definitely reach out again when the time is right for my business.",
+   "created": "2024-06-28T02:44:18.517404Z",
+   "updated": "2024-06-28T02:44:18.517404Z"
+  },
+  {
+   "id": "AbFvOqk4T1MP5_nMZrCNIE4zImLd9qfueUmHlgO5lvVXixvbv4B75fO05jVUmutYJetqOmuv3x3F",
+   "author": "Matthew Langa",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXkdb8cXRaoCdqEmz4wjnMIIBEHz4-kK-SoniJRMk4SPFk4vDQwuQ=s120-c-rp-mo-ba12-br100",
+   "rating": 4,
+   "text": "a knowledgable team, but my website wasnt really ready for the ads campaign that that set up, and would have been better off leaving the ads and getting my website ready before running their ads.\nHad a good chat with the owner, who helped immensely at the conclusion of their services, to get me up and and running before getting the ads working properly.\nOffered a good service, but make sure your website is ready to run before buying ads services.",
+   "created": "2024-06-16T20:28:53.103620Z",
+   "updated": "2024-06-16T23:59:40.225895Z"
+  },
+  {
+   "id": "AbFvOqmaUGJ8C9dJYMCYi7kfZH3CyIanlPr1JK7i92C07O5Oc10bUfLz-7ZBumBuXtNfaypCPJVK",
+   "author": "Samara Steele",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKgiz64_ocRXJiZVZrF5CNVMKQKIodSjRjlgeGf2uieBL2ecQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I have worked with Cullen at RankingCo for a while now and he’s continued to deliver exceptional result. His communication is great and he’s able to explain things in a way that even I am able to understand",
+   "created": "2024-06-06T05:22:13.133484Z",
+   "updated": "2024-06-06T05:22:13.133484Z"
+  },
+  {
+   "id": "AbFvOqk6f9Rp9dONK1b15A7sf0LuwMWpuScmOwaFFIZ83auhWFmzes9EU0XTnhzwkCuIbH543ZLtaA",
+   "author": "Elan Bension",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWj-tMYvYStvKhjje8ZPEKMnCovZK6CH2ALpDpK8PDZWulCq9lSvQ=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Tim was very helpful in assisting me with marketing my fishing charter. I went from having 0 bookings to 3-4 a week in only a couple of months.\n\nHighly recommend these guys.\n\nEbs",
+   "created": "2024-05-04T01:09:02.592757Z",
+   "updated": "2024-05-04T01:09:02.592757Z"
+  },
+  {
+   "id": "AbFvOqlZobCJk2znNaDQkVqZaASv0dXwtJtGidG2JxdLjXSayKvPilFqL5S7MO2ooOv1cWtxjH29Vw",
+   "author": "Megan Bamford",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLNvt4ZMv05fSPe9wbgmiwTd_l88kFRiPDtBBesJmZ4NfTnOg=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I cannot recommend RankingCo highly enough! Working with them has been an absolute game-changer for my business. From the very beginning, they demonstrated a deep understanding of my business needs and goals.\n\nMaddie's expertise in digital marketing is unparalleled.\n\nWhat truly sets RankingCo apart from other companies is their dedication to my success. They are proactive, responsive, and always go above and beyond to ensure my objectives are not just met, but exceeded. Their clear communication and transparency throughout the process have made collaboration seamless and enjoyable.",
+   "created": "2024-04-17T01:09:38.469656Z",
+   "updated": "2024-04-17T01:09:38.469656Z"
+  },
+  {
+   "id": "AbFvOqnZ0tDcfmugU0XEdlcLYuSAHR22n8f9E90V4sDQs2qA1IOeXlLk4FitybtJPAYfQHNDIH1iLg",
+   "author": "Sabine Christa Lange",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjW-FVY5PqbZYb8BfV2v37p-P0x4UTNzaVYYDyrQ4AstRLkRQg4Hpg=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I had the pleasure being contacted by Oscar, even at this stage I am to use RankinCo 's services, I was most impressed with Oscars professionalism and knowledge and once I am able to I am looking forward to work with the company again.\nSabine Lange",
+   "created": "2024-04-03T04:57:52.961957Z",
+   "updated": "2024-04-03T04:57:52.961957Z"
+  },
+  {
+   "id": "AbFvOqnUWPQB7qeG8sed9JHtmbFNC_90DSqu0mO64k58UgyfOSHGjshu6XzrwQda5gp9fqKCJGCz",
+   "author": "Tolu Australia - Latin American Swimwear",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocIzf0VjFoj5fnBKzEOsxUuOwIF28oGpNUGuAK4i6-XA9gJpnH0=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Darcy called me to do a health check to my Google Ads account and it was very helpful. Thanks for your time and the information given.",
+   "created": "2024-03-29T01:01:27.124196Z",
+   "updated": "2024-03-29T01:01:27.124196Z"
+  },
+  {
+   "id": "AbFvOqn-lfxODUxJAzaWEeHS73i-UHCaxLuCTw_2THCdnihxGymdkjefzKzRWwjcIiFs_J8T7Vk3",
+   "author": "Kerim Iskender",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocInNdT0C8QpH5arp9l8T7DHqTKFPEZSMpItC_WpFxikPltxNw=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "",
+   "created": "2024-03-14T01:02:09.168379Z",
+   "updated": "2024-03-14T01:02:09.168379Z"
+  },
+  {
+   "id": "AbFvOqkeIOR1_vYrlHUneKiyB5cTyo4QZdG-FSHYG94Q1UBhSqsXtgBWnHk8cd0yL1kCNqcYDz9KTw",
+   "author": "andrew kalimnios",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLEJ_Md42ToP310kFt10Rc3H0VpUPVwCkERFBmFPFnlCTbw7A=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Exceptional! Working with them was such a great help! Highly recommended",
+   "created": "2024-03-01T02:08:21.878057Z",
+   "updated": "2024-03-01T02:08:21.878057Z"
+  },
+  {
+   "id": "AbFvOqn-wWZO0JunCIel3T3fZ3qUGX7Be4opxoyY-lCnl4hzMCDzfogxWFXlNN3Q0Q12TbDT8cz0rg",
+   "author": "andrew kalimnios",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKJrBJ1QbgoiQUkpatoHp42ersTo7Jnv5uk9VsMs6k8_Vllaw=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I’ve been a customer of ranking co for the last two years. Kerry and the team go above and beyond. Highly recommend there cost effective websites and goggle adds management.",
+   "created": "2024-03-01T00:53:59.708507Z",
+   "updated": "2024-03-01T00:53:59.708507Z"
+  },
+  {
+   "id": "AbFvOqkkFObW6cZvRtxokFDzuQ-FXXpso0sZJvoqCuAYjbNr53a5zoCIXctRL1LoWZ8s9dMECnZQ",
+   "author": "Anthony Carle",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVzzgwgNpYTXtesvNOAIaWO-2mCp0A9BlhVzvmUMsNem8tLs1Dn=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Excellent company to work with on your seo and marketing goals",
+   "created": "2024-02-27T20:57:55.058041Z",
+   "updated": "2024-02-27T20:57:55.058041Z"
+  },
+  {
+   "id": "AbFvOqkJQ0RBJvX5osQNDVJcbVDWueQK2HnawIcQFzGjHcn7vVGcSj7ATc0is24uxTlKBrlK9vtUGA",
+   "author": "Anne Birchenough",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLpMlSfSx_STzaFh_Y4kwJtgELEVb2Qs-PmH2I7xGk6UQ6oBA=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "A marketing guru I am not, but RankingCo have worked their magic with my Google Ads to maximise my business. Very impressed and very happy with the outcome.",
+   "created": "2024-02-21T06:07:10.516454Z",
+   "updated": "2024-02-21T06:07:10.516454Z"
+  },
+  {
+   "id": "AbFvOqm6ZTXeEQY7wYP_u1LsvYGkLNHQWcji_2i_ufbUbV6uRo4qbFLptwONvagaQ67yfs23gtlYbQ",
+   "author": "Jacob Creek",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocIBVLmus1MG563Zd9mxB8ixQ10Ll13g8VE7_qQt8gsOiejNQN4=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I highly recommend Rankingco. They care about understanding their customers and doing right by them.",
+   "created": "2024-02-15T04:10:56.687244Z",
+   "updated": "2024-02-15T04:10:56.687244Z"
+  },
+  {
+   "id": "AbFvOqkJwrrZurul9b_TF_RlPTzhudp2TNTcMQ7ncQE1xTClhs6zZkGzRckqcQRs5SqtnJ-opecOJg",
+   "author": "harmonyharvest123",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVdmqu5dokw9UeZ3KFrLPAFYMtWsMEmz8k_aOMPH74FQd52mac=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "They know what to do, and help our business a lot. Thank you",
+   "created": "2024-02-14T23:46:00.344786Z",
+   "updated": "2024-02-14T23:46:00.344786Z"
+  },
+  {
+   "id": "AbFvOqlM9VboclIeBoBUzNz2SwShS11GxsW66QjIb8Y0mA5tIKwCBF69yxHCUo34dNO5GAxeRc0NuQ",
+   "author": "Soho Bay",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXW-CvE4v-1kqJwjoI5cNep3etH-ajTwKBHh0G9Fvi_0z3DTx0=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Rankingco. have taken the time to understand my business goals and tailored their strategies accordingly, resulting in an immediate boost in my online presence and customer engagement within a reasonable budget.\nI cannot recommend them enough. Their professionalism, expertise, and dedication is truly commendable. If you're looking for a partner that will go above and beyond to help your business thrive, look no further.",
+   "created": "2024-01-30T08:45:51.485084Z",
+   "updated": "2024-01-30T08:45:51.485084Z"
+  },
+  {
+   "id": "AbFvOqlD2HbcEoCANV9NoPpRLRvl998d42yuTveP6MKRTP3SmFcL6lDxf7GJakYD0oRmWz4ccmWq",
+   "author": "Stuart Stanton",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocK9aXGUUM2Ng48VOt9mYszJtIT7OTMvBV3VLptaBxPDDgf6nw=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Working with Ranking Co has been a fantastic experience. They have helped grow our business effectively through Google advertising over the past year. Highly recommend!",
+   "created": "2024-01-29T03:20:30.239675Z",
+   "updated": "2024-01-29T03:20:30.239675Z"
+  },
+  {
+   "id": "AbFvOqnOW_wPskGkLf4Jl1GUNU8Tqcnj-BQDbHHmSb_MC-eJ6OUHKKyLDFA7CHu6d82ACyq4HUOI9g",
+   "author": "Louis Robert",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocInNqCGK4ScJJ1CBik9FIeIsvIX1eL6Tk7cW09CL46L5RjEmw=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I've worked with Ranking Co for almost a year now. I never do reviews, but! I want to share how happy I am having Maddie run our accounts in recent months. Her communication, knowledge, and attention to detail are truly exceptional and I always feel that she genuinely cares about the success of my company. Thanks Maddie!",
+   "created": "2024-01-18T11:01:37.377068Z",
+   "updated": "2024-01-18T11:01:37.377068Z"
+  },
+  {
+   "id": "AbFvOqkFODjVqyO85adu615ZczEH8KmH5GyZXQkngSvDuPWZ-BuHwCy3hMPo9B-IzXuE7eM5L7RU8g",
+   "author": "Ray Sharpe",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjX7-b9bQjTfzsWA8oYQRd21pr_1DsUhdjLUYJohw8R_GVuZcrs=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Thank you, Rankingco for your exceptional service and for making our LidStop product a resounding success. I look forward to collaborating with you on future endeavours.",
+   "created": "2024-01-16T03:34:08.739449Z",
+   "updated": "2024-01-16T04:58:24.931715Z"
+  },
+  {
+   "id": "AbFvOqnZMxkpGBRweaS89Ik7Br1s1OsleRDSei-zj7Q9-InwObPn-eBJ6mECzr51uTm_srRvtKiz4A",
+   "author": "Alan Bird",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXvA-rlPcbyHao9_xW5dQkWndeBSD-Qc5W5dh2_77qoD0xhE8MX=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Well wish there were 6 stars, \"Ranking Co\". Do not go past them, I have been on there books for a while now and found them to be very professional, flexible in your needs as things arise and changes are required. Top shout out to Tim Graham, thanks Tim.\nGet on Board",
+   "created": "2023-12-14T22:11:11.937096Z",
+   "updated": "2023-12-14T22:11:11.937096Z"
+  },
+  {
+   "id": "AbFvOqlOgimfwdsQnwIT2Af4AWeOC5ZykIsKR2JmRpafrNH5WZLJbNaZ6tgEu0XramHXGjvh9VzC-Q",
+   "author": "Alois caillot",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVBtF2D6-P6C4UkqqBBJvXkSrPJhK10Mr0Blw8VzsJ6xJa1fQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "RankingCO is a great company to work with. Theo and his team are very professional and friendly - thank you! I'd highly recommend.",
+   "created": "2023-12-13T01:14:33.783629Z",
+   "updated": "2023-12-13T01:14:33.783629Z"
+  },
+  {
+   "id": "AbFvOqnab5lRXz18Uo-PSVbtMrIfsygIFZReYZbe3iuN_GFN_HqBhdkb36uMSOYSbT5p5ex-PtQ",
+   "author": "Heel Sit and Stay - Cairns",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVjY3O8nkRfde9lBU4nyXVJFkePjK688B8lctiU2IzlhCxWEkE=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Sarah was an absolute gem to work with on my Google Ad campaigns for my business.  She was professional, down to earth and grasped my business and brand quickly.  Her knowledge and skills were very evident in the traffic the ads sent to my website.  I would highly recommend Sarah and Ranking co.  Thanks Sarah",
+   "created": "2023-12-10T10:13:17.002278Z",
+   "updated": "2023-12-10T10:13:17.002278Z"
+  },
+  {
+   "id": "AbFvOqlMtS8dIwtIarX2tOBeyRCy7cXtSAuNn8m1j2V77_245l16NaZXCvKUyeeI6o8UsiOHc8f_aw",
+   "author": "Vandi Huynh",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjU6tZpzwD3nibWmN7ZtFUu_xH3MTeUgQTFZQoWPOSqvc2Lk0H3HVA=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Oscar M was superb - helped our business catapault our journey with Google Ads. Simply amazing at what he does. Oscar is a superstar.",
+   "created": "2023-12-04T01:23:05.561714Z",
+   "updated": "2023-12-04T01:23:05.561714Z"
+  },
+  {
+   "id": "AbFvOqlQ4OxETgb__l-nV-CgU79UH-C0P7q0anUlTrvA2aDssrWe38WG-WMpwBFXtf1qtpP7yD7NHg",
+   "author": "royce ernst",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocL0qnaUnAdzq3UYme9Cuf_0Zg-CEMrIJa3vngmid1gouLJ18Q=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Our small company has been working with Tim from Ranking o for the past 8 weeks.  Last month was our biggest turnover to date, the marketing is making a difference! The RankingCo onboarding process was seamless and all staff a pleasure to deal with.  Can't recommend these guys enough.",
+   "created": "2023-11-06T03:55:42.569093Z",
+   "updated": "2023-11-06T03:55:42.569093Z"
+  },
+  {
+   "id": "AbFvOqmNKWK6b4b-csDWNZC-RZlJ7Zr3C5s0f0dU2_cgBUP8JsCAYp52sdn27kn8l8h_-g",
+   "author": "Optimum Legal",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKeGh_-n1aKs4pQ23jzft84tpA-ZT0H4SvGb-NxG3-qN8eOmw=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I have worked with Oscar on a number of occasions, and I could not recommend him enough. He has demonstrated exceptional communication skills and has never missed a deadline.",
+   "created": "2023-10-30T05:33:11.000429Z",
+   "updated": "2023-10-30T05:33:11.000429Z"
+  },
+  {
+   "id": "AbFvOqmu9YDkGu_-TwvMeFPq81enIFTax_AUt7F5DHEPru7OLbByeqaQtlrwT445ZSgdK_x5VzUKBw",
+   "author": "Joseph Topalov",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocI4NHwgBT6zrw3E9wvKBssoAk-eDfZiwA-yqGrhhZihuDB3Bg=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Madelaine Vaughan was awesome to deal with. Very good at explaining the ad campaigns and always checking up to see how they're going. Can't recommend higher!",
+   "created": "2023-10-24T09:44:42.994628Z",
+   "updated": "2023-10-24T09:44:42.994628Z"
+  },
+  {
+   "id": "AbFvOql1PJrc_BrI_jDgrE2ZtPLClhHTdzylKxzsUYzyGqV_uGSPUqHkPKy5PgskW8gWSiwPXpc9hw",
+   "author": "Ellie Patel",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocK1DLYFNTI9FLB9aEwC708ZlzAOCfWKOnUdJS0rI-9s5C8OyA=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Ranking Co has been absolutely amazing for our business. I highly recommend Maddie, her knowledge, communication and and ideas have been incredible. So much pressure has been taken off on the admin side, and working out the complexities of ads. The conversions so early on have been coming through, and it has been worth every cent. If you need anyone for your marketing needs, look no further!",
+   "created": "2023-09-14T11:48:00.779155Z",
+   "updated": "2023-09-14T11:48:00.779155Z"
+  },
+  {
+   "id": "AbFvOqmJCVdNu1MwDcjs_ZathfFyeMgrGhH_qte3aFrva_wG3nAZjFmlS61RRcHfQm2JDimOEuPCpA",
+   "author": "Kristy Lees",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXqDWjprGZQB68vFrIjLEQ-wjtxzNReaJhGIKW513PsVfOa5LLI=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Theo has been great with google ads for our business! Always happy to try new ideas and strategies and listens to our needs. We have been getting more and more leads. Thank you",
+   "created": "2023-09-13T20:31:11.569723Z",
+   "updated": "2023-09-13T20:31:11.569723Z"
+  },
+  {
+   "id": "AbFvOqnPOxNsAPECE4lNaNGvsOqec5bcCQezeJh3BIooQhYNjllVfK4etOfvnu-z0U1VxcIZFHHrQA",
+   "author": "Hansford Flowers",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWYLPm92BiR3guNapSTVzIoSeBTTL-qQxrzo1O8lOzTnWBoRBc=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I am extremely impressed with the team at rankingco. They are not only friendly but also incredibly helpful. Throughout my experience with rankingco, I have had nothing but positive interactions. In particular, I must mention Cullen, who has been absolutely amazing in alleviating all my stress and managing my Google Ads. I am truly grateful for his extensive knowledge and deep understanding of the subject matter. Thanks to him, I can confidently say that my Google Ads are in capable hands.\nAnnette - Hansford Flowers",
+   "created": "2023-08-31T08:47:48.358113Z",
+   "updated": "2023-08-31T08:47:48.358113Z"
+  },
+  {
+   "id": "AbFvOqnGjUk2DBKboz-zDbRmWJ1TcJKbCsI5pjJh2sznw7jHhujEQjRxVWwPxrYosJUTMCJGfwo7OQ",
+   "author": "Rebecca Montana",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjX6EeFrQ3h0TsqXnR5wYx35RgOZ5tDWc9MQySBfeaIufB1_4G8F=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "We are so impressed with Leegal from Ranking Co. He has really helped our businesses perform. Thank you Leegal for working your magic!",
+   "created": "2023-08-23T22:24:38.551024Z",
+   "updated": "2023-08-23T22:24:38.551024Z"
+  },
+  {
+   "id": "AbFvOqlEIi8XO_2qOU2khMi6as5K5NI-EANigvaN_HM9t9qKB9hIqNPPRtB8sW3d1hZAn6Dhb4Po2w",
+   "author": "Fiona Beggs",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocIGLdtyBXM6EukCSn5GfaGj3oiJlfIRVRT8RJ0VaUhBGtx5Xw=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Thankyou to Cullen for all his help. He is always\nextremely helpful, polite and quick to respond to any queries/questions I have. If only other business could be this efficient and professional.",
+   "created": "2023-08-23T10:36:24.679369Z",
+   "updated": "2023-08-23T10:36:24.679369Z"
+  },
+  {
+   "id": "AbFvOqkuXVTALCk4SDMEzzcW5MZ78N8t8Mfna049_uQIQpL9imeaNLFg4bE-J2boSkR3sRn7GlhnPg",
+   "author": "Melanie Alexiadis",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocIT4UXbphfPvcSDAmlCsBFvuvnYIA1Rg4MwEIAfkjNc6MaJ6g=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I have been working with Cullen from Ranking Co for the past couple months and have been very pleased with his professionalism and friendly nature. I noticed a change in conversions from my website within the first week and am looking forward to expieriencing greater growth with the business in the future.",
+   "created": "2023-08-23T00:01:14.981045Z",
+   "updated": "2023-08-23T00:01:14.981045Z"
+  },
+  {
+   "id": "AbFvOqlI4icrkWLZW8f_vAfT0qk00MdVUwxGx2RRFAQ_fYl0KKZkF9O-9h7JH5usg5Kqf4b0-Gow0g",
+   "author": "Michal Pruchniewski",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLQi7XVUrkOI18vOP6TNBywpXqFKWZhSSdt-KJf6DgJj8wjng=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "RankingCo has helped increase the traffic to the website of my small business month after month. Sarah from RankingCo has ensured it's success and has done a great job with keeping me up to date with progress and changes to the advertising structure and systems.",
+   "created": "2023-08-21T05:07:10.996461Z",
+   "updated": "2023-08-21T05:07:10.996461Z"
+  },
+  {
+   "id": "AbFvOqkIe7gWOOLFoV1xJi_1CFMhQiepFoR-7G82TJNiEK5wfi7s4971Fef3RQ4-xY7wAEXiO_OHZQ",
+   "author": "LORYN FOX",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocI176xOedeNvPfQrZBQx2Z6-oLR9GNdzzxSId015CjZMtP5JA=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Kyle @ Ranking Co is a star, the whole team is to be honest. I have easy communication and honest discussions regarding my account. We have seen some really great results since being on board with the team and highly recommend them to any business looking at teaming up with this great Australian business. x @LUCYFOX",
+   "created": "2023-08-21T00:16:27.406870Z",
+   "updated": "2023-08-21T00:16:27.406870Z"
+  },
+  {
+   "id": "AbFvOqk64EPHDN-17KNEaVrfobAiW9tQu828szEMQPVcfQvHWNKAL3vfV6RnPsfn0w1cgpXUEE16nA",
+   "author": "Vicki Natt",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVwhT3KBkXlhtd9nBbaKvCz_2aebVWler3fu2R9NRsdk-oOb0w=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Theo from RankingCo has been brilliant helping Cambrelle's with their marketing, something we really struggle with, he is so patient and keeps me very well informed, and also doing changes to make improvements, listens to my requests and respects my business ethics, as I like things to be a bit unique and personal, not just a part of the herd.  We deal with wholesale and retail, and he respects our differences.  High recommend RankingCo and particularly Theo Dunford.",
+   "created": "2023-08-18T12:33:47.613293Z",
+   "updated": "2023-08-18T12:33:47.613293Z"
+  },
+  {
+   "id": "AbFvOqlBJQfvcRdNrgfBrKqTmsvN10tpeKMKVgAWyqUTEI42E6U1SW4S7RDA5HnrbvlUXBwBHRK8IQ",
+   "author": "Josh Bulcraig",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXJ85SQWgEEvZg6ldoKQNtABZESxwPHYzMbsSE4uF8tXICXhr2C=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "RankingCo team are absolutely fantastic to deal with. From helping to setup GA, SEO to constant monitoring, support & optimization - very satisfied with the service!",
+   "created": "2023-08-17T00:19:01.652073Z",
+   "updated": "2023-08-17T00:19:01.652073Z"
+  },
+  {
+   "id": "AbFvOqm7Lvuvgd5hKO1L4zFCOOBD2IbE2NneCGYT1vNJLAOiad1Ar4zFiVhZkuIHrLmHiltTxJuR",
+   "author": "Nadia Kidgell",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXUvQJPMovJTEp-U8SFTvyr2vxpL8efpUTPHUtl8GIgBwEFId-tUQ=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Sarah from Ranking Co has been an asset to our business and I considder her a part of our team. Sarah is invested in our business development and this has shown in her outstanding effort with our advertising.",
+   "created": "2023-08-16T06:21:09.185521Z",
+   "updated": "2023-08-16T06:21:09.185521Z"
+  },
+  {
+   "id": "AbFvOql5-eajPI1Gqt1kEoEuypR3knGIaCiiNgofUW8XL_jqaoPj_SFEct-GpYMMyzaXUQQalZhU",
+   "author": "Barbara Munro",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXrOOQq6KPjjRJ4gyDq4813fr-1BSH9oGvQ43RBPEl-iFPRTCMW=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Before meeting up with Amber and Theo from Ranking Co, we were fumbling around with our advertising campaign, not knowing how it all worked.  It has made a huge difference to have such friendly, skilled and motivated experts to talk to on a regular basis and plan the marketing campaigns.  Our leads have increased markedly.\nI highly recommend ranking co especially Theo and Amber.\nBarbara from Melbourne Training International",
+   "created": "2023-08-16T04:55:19.100979Z",
+   "updated": "2023-08-16T04:55:19.100979Z"
+  },
+  {
+   "id": "AbFvOqlYBVDMyDI3niPFzkt_wqR-NPWH4tZEc-Fxn7GUKOzdwGfk2WoZMOpDqO-xBMhb2erUZ4XPxA",
+   "author": "ATI Martial Arts & Fitness Midland",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWk3W3IbqaJH9USzyJ8U6gtFbl1RrvItSqs8Z1t2c7qDTJZb_IQ=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "We have been using RankingCo for our Google Ads management since January 2023.  We have been working with Sarah whom has produced awesome results in a somewhat difficult and diverse market. Sarah has an opened mind approach, always asking the relevant questions as it pertains to our industry and prepared to listen to our concerns. Well done !",
+   "created": "2023-08-15T06:33:59.704256Z",
+   "updated": "2023-08-15T06:36:02.795626Z"
+  },
+  {
+   "id": "AbFvOqmsnVOvSgzPokHwqW5nXQTPGciANuE0JRzktYr0NjAIQ9rwCV11Qwi9zDfFO9z82SzOtKKfDQ",
+   "author": "Travis hale",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjX-5ARxCUqEldcFw6oaFIO42ybnXNRjbpzlotug3gv7oerLvTo=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Maddie and the team have been great for us, they're amazing at nurturing new business, as well as bringing peoples digital footprint up to a proficient level, and maintaining it. Their comms are great, excellent reporting and the pricing is very competitive.",
+   "created": "2023-08-14T03:06:54.460925Z",
+   "updated": "2023-08-14T03:06:54.460925Z"
+  },
+  {
+   "id": "AbFvOqmn0LxJJ6LgzlYhnsm9J8QiN8_wwXjM5kTgzEYzm9WidrDzme6N9EKoTQyQQYyK6NVb2eIJbA",
+   "author": "Brett Jordan",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLGZ6OS1TU0g9pt5Vic-vC1cW1APM4-HghCDGMHIbXLRR3dYg=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I speak with kyle and he is a legend I feel I’m in very safe hands when I speak to him, we are getting good returns on our ads and I couldn’t be happier",
+   "created": "2023-08-09T01:51:45.944295Z",
+   "updated": "2023-08-09T01:51:45.944295Z"
+  },
+  {
+   "id": "AbFvOqnoHwbaLLDDhdvHJqUgysgPfpQFFaZKJLJNlxIjcFlsxdNoW8fOyefwc0HErAekcPiVR-T0",
+   "author": "Janet P",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWdtYmANTjSTqW90i3bz8UPsNgY3OMj47YhnXlfYZaEKkmgXvHV=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Amber and the RankingCo team have consistently delivered exceptional results for us over the past few years. Notably, they have invested time to deeply understand our business and the wider industry, which is truly impressive.\n\nTheir services are affordable, yet they bring a wealth of valuable insights to the table. Proactive in their approach, they constantly seek opportunities to enhance our business.\n\nTheir honesty and integrity truly sets them apart from other digital agencies. Highly recommended.",
+   "created": "2023-08-02T10:39:31.105196Z",
+   "updated": "2023-08-02T10:39:31.105196Z"
+  },
+  {
+   "id": "AbFvOqlziG6s7lShAcQksE4fxH0byCXtCK812KTNW6-vOw6gXvoci1RuSzkKmGlCQ95kWJJ3LLWzZA",
+   "author": "mateo k",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKcPGwi2IIa2RiKV1sZ1IELYOZaqDv-ILVJOqua_UsGG7moZw=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Legal david was my accounts manager, really good to deal with always got back to me in a timely manner. Definitely recommend.",
+   "created": "2023-08-02T06:06:38.585610Z",
+   "updated": "2023-08-02T06:06:38.585610Z"
+  },
+  {
+   "id": "AbFvOqnCaJtmFW07LWJ9lIH6wkfjmbPAiFq0B5RmR_ZrNDtXLbZR7gofP2d0YavLcEJHXFS4Ku_rxA",
+   "author": "Colin Ellison",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUIYKhRryP2e7es8pRcD2OkpPlX4v5rUuvxnooB5ig5OmDQ5a0=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Jake has been a great assistance for over a year now, and Sarah has done a fantastic job with my Google adwords, superb team throughout. Looking forward to seeing how far we can take the SEO package.",
+   "created": "2023-08-01T05:12:04.717490Z",
+   "updated": "2023-08-01T05:12:04.717490Z"
+  },
+  {
+   "id": "AbFvOqmmMoF2f-l9ut6MsDK7Xwa_q_WKg97ArSo9XEYa-GJ4dPekmHaZHWvH9qByD7Mff7u39nPTkA",
+   "author": "rackeem miller",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjX1-fzhVa6AcIDa7_0F0SzrR-v4fLByvp9C967kNnEn5VVxAGc=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "",
+   "created": "2023-08-01T00:18:35.673083Z",
+   "updated": "2023-08-01T00:18:35.673083Z"
+  },
+  {
+   "id": "AbFvOqmZM67cziSP7kdbAXLmIdqdxKbLwAWrEDx-0hYX3yhL3cz_1_0O2h5yboPMU0sY8POnRNNwYA",
+   "author": "Sandra Vaughan",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLYmpNcj4GK15hdBZPavq4lCEC6BPKm8NVhFu9NZPKzeD4Z4A=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "We are fortunate to be working with Ranking Co for over four years now and to be honest the prior years wading though the other FB Ad and Google Ad managers | marketing experts was beyond difficult.  But having Ranking Co, Amber and Leo leading the way, while maneuvering and adjusting in this ever-changing and challenging landscape of Ad Marketing, SEO, Google ranking has been a huge relief and benefit. Not only in scaling our business, continued on point brand messaging and awareness, but this team is dedicated, kind and truly skilled. In short, I am  grateful and never feel lost or alone with Amber Porter and the team charging the way and always providing excellent client relations and strategy! Ranking Co is a full service marketing agency that you can trust for REAL.",
+   "created": "2023-07-27T06:57:05.489883Z",
+   "updated": "2026-07-25T00:51:59.626149Z"
+  },
+  {
+   "id": "AbFvOql5RjVfEcMkGGNgW9CEpwA893uv0oG26EB6b8Dv-TMQ-er5klcBzS98iCCH-ynGgorYmUfe9w",
+   "author": "oisin mc quinn",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJsO7eZQUIBmCwHgtIX-MomAiArigCHgbGlRooetZY_WyqZdw=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "We have been with RankingCo for nearly a year now. Our product is unique and difficult to advertise but RankingCo has worked with us, listened and responded to our challenges and concerns. The team are very friendly and have great communication which is key in marketing. Shout out to our account manager Kyle who has been awesome.",
+   "created": "2023-07-20T04:29:56.337840Z",
+   "updated": "2023-07-20T04:29:56.337840Z"
+  },
+  {
+   "id": "AbFvOqma42ycQIDc0LEDkbM98tiF1noWhq5J-XXhHJ1ZF1Lf-YxOszo5ni2udM3j6Pt_hoUdP-4etA",
+   "author": "Deborah Parsonage",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVFdFr2F4XAQg9AgZ-DHHbTb0t-h7eiDuZNQnsrktxwAPCfNVTk=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Sarah has been amazing to work with! She is not only incredible at her job but is a lovely, genuine, honest person who has her clients best interests at heart. We are getting great results from our Google ads - overall Rankingco has been extremely professional and I would not hesitate to recommend.",
+   "created": "2023-07-04T05:20:49.669914Z",
+   "updated": "2023-07-04T05:20:49.669914Z"
+  },
+  {
+   "id": "AbFvOqmRuRvQFRPIZSbKh079qcZUU-_2siY7KknZzoCm4DIG9SCu2vZq1mm3vV9CPhKafC9vh6eEfA",
+   "author": "Somewhere.",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXstAe6Zqv-blbw_bKQdiOAceNLyV4GX2DvJyKBART9WE4C6UI=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I cannot recommend Maddie from Ranking Co highly enough for her outstanding marketing services. In just a few short months, she has delivered incredible results for my business. Our conversion rates have soared, reaching an impressive 10:1 ratio. Maddie's expertise and dedication are truly remarkable.\n\nFrom the start, Maddie has been a pleasure to work with. She quickly understood my business vision and developed a highly effective marketing strategy tailored to our needs. Her professionalism and responsiveness have been exceptional, always going the extra mile to ensure our success.\n\nI genuinely appreciate Maddie's patience and support, especially in the early stages when I had multiple questions and concerns. She has been an absolute legend, guiding me through the process and offering valuable insights along the way.\n\nIf you're looking for a marketing expert who delivers outstanding results, look no further than Maddie and Ranking Co. Their expertise has had a significant impact on my business, and I'm excited to see our continued growth under Maddie's guidance.\n\nThank you, Maddie, for your exceptional work. You have truly exceeded my expectations, and I'm grateful for the positive impact you've made on my business.",
+   "created": "2023-06-16T23:53:23.985441Z",
+   "updated": "2023-06-16T23:53:23.985441Z"
+  },
+  {
+   "id": "AbFvOqnVyk40vg313kKdalo9fjjV7vT5k9iiODAphvW4lFnVN13uf15n75HlsRpmpFWQxsTbXrPDng",
+   "author": "MDNB",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVzZDOd57yCpUeC705cDB7CCFSE09kDG2ZStaLq1_sWHGGsNCa6=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I would like to thank the ranking co team for providing me with the support I needed.\nSarah explained and guided me through everything the steps procedures, she also made thorough catch-up meetings which I could not always make however I commend her attitude in her line of work.\nDefinably the best experience I have had thus far.\n\nMark Design N Build\nMark adams",
+   "created": "2023-06-15T08:47:33.941015Z",
+   "updated": "2023-06-15T08:48:11.344412Z"
+  },
+  {
+   "id": "AbFvOqnxe8cmDRjvVGtwFusA_dngl3VMMqBA4qPWAC5SaZw62ekfSosDd1-NNnkfPrcdmtlVc7mtOA",
+   "author": "Shane Mclennan",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLo_Odyy010yHKVt2yLU9LUQ9iLFn3oH7Yafhqu8z3GDf8mbw=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Absolutely brilliant service.. Our Google Ad campaigns really pay off for the business.. We've had a couple of Google / website related issues which Maddie @ RankingCo was straight onto and had them sorted quickly out getting our campaigns back on track.. Before dealing with RankingCo, I was one of the skeptical business owners who stayed away from Google Ads thinking they don't work and are just a 'money pit'. I can honestly say these guys, especially Maddie, have changed my mind on that opinion and I can't think of not using them now..  Well done team and well done Maddie.. Blue Bar Industries",
+   "created": "2023-06-14T02:27:07.628078Z",
+   "updated": "2023-06-14T02:27:07.628078Z"
+  },
+  {
+   "id": "AbFvOqlJyrYy-XnOvLY8haUFO79VyAxbd-dS4UN7rbCCbapvsh_xV3b4VXQHTl95wzymsNtSZxCp2w",
+   "author": "Megan Grant",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXNedGxKW5ojRiUqWEIo-jg5yoSWsxmNMQLPm-hKq3AlRmHkQbd=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I am truly thankful for meeting Amber and for the incredible contributions she has made to my business. She showed an unparalleled level of insight and professionalism that I had not encountered before. Amber was incredibly patient and listened to my needs, responding in a way that gave me the confidence I needed to make changes that I hope will be life-altering for my business. She showed great efficiency in getting started on the work and I am absolutely ecstatic about what Ranking Co is doing to help my business. I am so glad that I found Ranking Co and such an outstanding team.",
+   "created": "2023-06-02T05:58:04.841336Z",
+   "updated": "2023-06-05T03:47:43.472413Z"
+  },
+  {
+   "id": "AbFvOqlK9O0_amnpGxNUyY0nlfczRW9V-qq5nA0tQ_f-WldNyiLUn975rYNq6uYLDMXifDQSnmx20A",
+   "author": "Jacky Dalton",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLFpgljz6P1yFrQa_MOyuOidq7Fn16hMTTAmSdYELuZ3E733A=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "My experience with Ranking Co has been brilliant. Sarah worked closely with me, providing guidance and advice. The work she did helped me achieve a better reach and better value for my investment. From the first call it has been a great experience. So good to find a company that is based in Australia with people who listen and care about what I need. They delivered 100%!",
+   "created": "2023-05-25T23:09:10.413384Z",
+   "updated": "2023-05-25T23:09:10.413384Z"
+  },
+  {
+   "id": "AbFvOqm955YrPMDaP_dME_CEt779wro-niITnstnLQc6MYp5cLCQ6iKhY2jRoKISTDpKP8nLab-dYw",
+   "author": "James Loganathan",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVd5GXvPvZHZ6gDK28dKQeIxYeUjDwm7R-nODZRKNFuowlXzXrM=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "As a new client my initial impressions are that the customer service levels and professionalism of RankingCo is unreal. The level of effort and service has gone up since they signed our business up, not down (unlike for many similar businesses) - I'm looking forward to working with their team.  The team answered all my concerns and didn't dodge difficult questions.\n\nIf their performance is anything like their effort in getting clients set up I'm very optimistic about the results we will see!",
+   "created": "2023-05-10T02:03:55.936291Z",
+   "updated": "2023-05-10T02:03:55.936291Z"
+  },
+  {
+   "id": "AbFvOqlaKXZsrePjQYtXyNRIdNdBBzRweDrPDGvSbTpW76UVwQw7G9TaQ5BNShDEHuPykvIyVKdYWQ",
+   "author": "Marilyn Wells",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLIwUq7OdL_Tm0_xGOTirywtk_0bvYan2VpWa-uJ4EVKNaixA=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Extremely happy with the friendly and honest service provided by Sarah at RankingCo. Sarah explained every step of the Google Ads campaign and kept me up to date with results.",
+   "created": "2023-05-04T02:42:28.430066Z",
+   "updated": "2023-05-04T02:42:28.430066Z"
+  },
+  {
+   "id": "AbFvOqm_8VfCekPxAnoYHKn5K8NzDPAO0RM4nTSMGdM5AElt73ntS-59mI0jqqw8QBk3jf0r8vQH2g",
+   "author": "Alan",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUd0XibR9sOJJk4VzD3MvXnIE7q-6ZYYvn3V8Q0mmSvVWXJ5zo=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Thank you Ranking Co and Thankyou Tim for your fantastic contribution to my campaign.\nThe results are above my expectations.\nGreat Job and Great Results.",
+   "created": "2023-05-03T01:07:10.897969Z",
+   "updated": "2023-05-03T01:07:10.897969Z"
+  },
+  {
+   "id": "AbFvOqkur8zX8oPgIFAR-x6VWBVYVCiWMfyOUTTsEBPJm0ULphp-bNkNCmf-eKjQQahFM7kSOq0UIQ",
+   "author": "Dan Smith",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocL9k35MSeIPNAy9F7gdgzaJNRRvZpo9slqJyOmypZ76uhz8cQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I have used a few marketing agencies but RankingCo. shined above the rest. I am not very savy with digital marketing but Maddie was super helpful. Not only did she produce results for my small business but she was patient with me and helped educated me along the way so I have a better understanding. Thanks Maddie and the rest of the RankingCo. team!",
+   "created": "2023-05-01T22:22:00.607755Z",
+   "updated": "2023-05-01T22:22:00.607755Z"
+  },
+  {
+   "id": "AbFvOqnATZOmTzh5Zfv7eEyx1VVU6zlSEN9BYy1W0sKCcKT6uHcusVEJ1rvTnpm4m2T0z-8042i14w",
+   "author": "SQ Mobile Welding",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocL2gZy6cgkCQR0200RFY0GuGAtJsJmiQ2LhsXDPtfjoQa9UEA=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "The service has been great, very pro-active and helpful when needed in emergencies.  Highly recommended.",
+   "created": "2023-04-18T07:57:42.657572Z",
+   "updated": "2023-04-18T07:57:42.657572Z"
+  },
+  {
+   "id": "AbFvOqlR283SGYk3IJZOedt075qm1pIK9qay5-WinZ1Y12G3T7YRmz4w5fvDXnD4wQ6x7sLC_JEF",
+   "author": "Daniel Unwin",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocI60x50d29PmBq996EkSkc2Pbvn9zmg9i5twYg0123YHUK_aw=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Kerry and the team at RANKINGCO have been amazing. They manage our google ads campaigns and have done a brilliant job. This google ads stuff is complex and we really need an expert to manage that task for us so we can focus on our business. Anyone can turn google ads on... but these guys will make sure your hard earnt money isnt being wasted and most importantly your return on investment is a good one. highly recommend. A+",
+   "created": "2023-04-14T05:26:34.153244Z",
+   "updated": "2023-04-14T05:26:34.153244Z"
+  },
+  {
+   "id": "AbFvOqlGLUw0hbLLjn26iHSOwV0uz_7BS_PJbzC7iqlJvXIsBWZxQiIGVA_odX_CVreSMx71qtiVTQ",
+   "author": "Rocky Biasi",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjVp9D7ttH7QaI_EGMIMsQ5-1v7zv4yDou7e4Q9rSWlwROeNuYIm=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Maddie Vaughan has been the best Google Ads manager we've had from RankingCo and other organisations.. I very much appreciate her initiative and forward thinking in making our campaigns successful.",
+   "created": "2023-03-31T02:24:22.636305Z",
+   "updated": "2023-03-31T02:24:22.636305Z"
+  },
+  {
+   "id": "AbFvOqlKvUDVoTfNo2N3lBAnDoAS78rJXIbdomy2IQpSSQc_TzmaVPBCQFNRGmZioIW9g6l-IcI22g",
+   "author": "Camilo Ruiz",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLmwxtuKtSEGo5XJErn_pWu6WttrDt97xaRgh9JeTLGX8_CDA=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "If you want results, look no further! amazing work ethics and a very fast and prompt answer from all the team. Maddie is the greatest person you'll meet! kudos for the great work!",
+   "created": "2023-03-03T00:46:34.500922Z",
+   "updated": "2023-03-03T00:46:34.500922Z"
+  },
+  {
+   "id": "AbFvOqmBDiwZoYO18HvuQu5s_zWqQS8HU0LHLhvksKMyOqHtdWGOgHdt_m2ETXpzyfknPX8n58OI3g",
+   "author": "Jeremy Thomas",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJwOahpCs_8u-tYV_wNVDBwukAElm4F5xCMv13YV8hb3CeszQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "A big help in setting up a landing page and google adds",
+   "created": "2023-01-20T05:08:56.380355Z",
+   "updated": "2023-01-20T05:08:56.380355Z"
+  },
+  {
+   "id": "AbFvOqnxfISsNsnnLfotmLjmmzFTZnAA5kDJjZ4dzXlf505ftcKt205zM46dN2XQCyLDkrsWltCGKw",
+   "author": "Brian Murphy",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocI_9pcSJES2bAr0Bt5VPvXvV0Us84KP6jVNGNvUVkNQopjC9A=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "",
+   "created": "2023-01-18T21:34:12.573132Z",
+   "updated": "2023-01-18T23:41:43.580528Z"
+  },
+  {
+   "id": "AbFvOqkoRUsxxNL-MZgZhADmQ9M7bMdXwbHBAuqS3yhEWThV51CxAHgxxZ-4PZVV1grNXgptR28j",
+   "author": "Adam Bee",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjV6oVBhngD3Kf39SBhRp1tgDAwUJQtky1zrB5OGlLzTv6ITv7Q=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Good results from honest people. They didn't try to sell me a dream, they were realistic in what to expect timeframe and results wise and so far have hit the mark with everything. I look forward to seeing where this goes.",
+   "created": "2023-01-18T00:50:25.266186Z",
+   "updated": "2023-01-18T00:50:25.266186Z"
+  },
+  {
+   "id": "AbFvOqmZpsBddr8ySnTWGWxv06ozDaeJLmjUBvFZweZXyIn0sX206gazb9kLqWO8lJe-0kOMw92Bcg",
+   "author": "Aaron Sterenzon",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWQfQHaSDn2k49sEjbNx9EWb6-uAmsq5V3SoC-uELr_XDSCib1F=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I had a great experience with the Google Ads service. The setup process was easy and the customer support team was extremely helpful in guiding me through the process. The targeting options and metrics provided allowed me to effectively reach my desired audience and track the performance of my campaigns. I've seen a significant increase in website traffic and conversions since using the service. Overall, I highly recommend the Google Ads service to anyone looking to improve their online advertising efforts.",
+   "created": "2023-01-16T22:10:43.426821Z",
+   "updated": "2023-01-16T23:42:34.737623Z"
+  },
+  {
+   "id": "AbFvOqkwEwpiFZwu6OMucPLSmE0wWIOXDvisDJN0VEc87h_8KIBLEyjBp1clxW3mLnivmqLm-iEk",
+   "author": "Ahmed Yaseen",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocLqERKpxx-ERaPz6nqY5pHwN_3uqNp9GaBmyK0vGQhUVSyHPA=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I decided to go with them after I received a call. I ran my smart campaign and wanted some professional to handle my google ads campaign. Sam is the great guy and works hard to make sure my business is successful running. I have run 1 week of campaign with them so far and already had 2 conversions and many calls for quotes. When I was running my campaign I had only 1 conversion for the whole month. I will definitely will recommend them as they very  professional and always happy to help whenever I call them.",
+   "created": "2022-12-19T22:58:31.115480Z",
+   "updated": "2022-12-19T22:58:31.115480Z"
+  },
+  {
+   "id": "AbFvOqnbou7skqqDNezuBbz0pJjo-3AqDj6GiQTYqNM-a4eGRsuvsxLMp7a3v5vPlt4g0S2i0OVUIA",
+   "author": "Code Property Group",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXHovyCZAHnArhX7f-TeKcgbhtkGP8iVf86k0QCulIxMZgDaH6N=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "We have been working with Maddie from Ranking Co for a few months now and we are so impressed with the results we have seen in such a short amount of time. Not to mention the amazing communication, reporting and support we have received since the moment we signed up! We don't know what we would do without them now.",
+   "created": "2022-12-07T01:46:52.998116Z",
+   "updated": "2022-12-07T01:46:52.998116Z"
+  },
+  {
+   "id": "AbFvOqlc2lEbp5eXgzElJDZfoNsJC5sC3_Qsrc-Al_zY-agZtxlJ0GgoAY4HBHNSkIo_tP0Wvic5",
+   "author": "Sarah Tidmarsh",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocIfHZviIcw6NyQA2x2CFR915OO48UmyuLWH2szUakouEknVUQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "We can not speak highly enough of RankingCo. Our Client Care Manager Maddie has been simply brilliant from the start. She consistently delivers a professional and detailed explanation as to the on goings of our account which for us, is priceless. Kerry (CEO) has also recently gone above and beyond to offer us extra support for our small business which again, we have found invaluable. RankingCo have not been the first Marketing Agency we have engaged but without question have held our hands every step of the way and continue to stand out from the crowd. Super grateful for these guys. Highly Recommend.",
+   "created": "2022-11-21T06:09:57.119349Z",
+   "updated": "2022-11-21T06:09:57.119349Z"
+  },
+  {
+   "id": "AbFvOql_UkKReWoKm4mXYxpQYeSrQ5Mg3CeyC92RJgwJ-U1hVLkCSRImjo85CCP-opc2Xdg4GzFj1Q",
+   "author": "Rohit Gupta",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWXtEeQBa4F2N4Z9TByA_Ho_oDeOYQpKKUiy039mvDeE192gf_R_g=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Very professional and humane at the same time. Strongly recommend!",
+   "created": "2022-10-18T23:46:25.741638Z",
+   "updated": "2022-10-18T23:46:25.741638Z"
+  },
+  {
+   "id": "AbFvOqkH9A9W24hIMCo0nqpG2rv2F3ywno-FEZbW0c5fKpYqTfpovr2Pdkh9uOQ-doed-YDBghYJ1w",
+   "author": "Marketing Newentor",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjW_XO2CRbHiYgKnmSFhRCn5ZDPBvFwJ9AFyica_ikU95gZVjmc=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "When you have an agency that is professional, responsible, friendly, and patient, what else can you ask for?\n\nWe are absolutely lucky and happy to have worked with Rankingco for the last few months and many more months to come.\n\nThey helped us build the Google ads from the ground up with a solid structure and insights from past e-commerce cases, and have patiently walked with us in the journey to growing sales and ROI continuously.\n\nWe definitely appreciate their quick-to-action sales team, and their responsible account managers Ben and Aimee. Every weekly meeting is more than pleasant for us to attend.\n\nThe weekly ads education has been highly beneficial to us as we get to understand the logic of google ads.\n\nThough far from strategizing and planning out on our own, we know where their direction is heading and how plans are carried out, which is a great start.\n\nWe can highly recommend Rankingco to other companies that are looking for a responsible and efficient ads agency.\n\n5 stars from Newentor Australia.\n\nAnd by the way, Megan would like to add here, this is also the best call she has ever taken this year :)",
+   "created": "2022-10-18T06:27:58.959402Z",
+   "updated": "2022-10-18T06:27:58.959402Z"
+  },
+  {
+   "id": "AbFvOqkCbFeNZJ1mZVDLiPtcfKoA-UhTznQvN1Wyq0ggAM3al_DZJibHO1GHiAIFF-vKWDZ83TlWkg",
+   "author": "Antonia B",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJWmSku68UErOfub5wvQBSB-yyv-1dRahrqChrJU79EjJpWRQ=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "If I could give ten stars I would! Jake was professional, knowledgeable, transparent with great attention to detail and service. Highly recommend!!",
+   "created": "2022-10-17T11:39:28.982224Z",
+   "updated": "2022-10-17T11:39:28.982224Z"
+  },
+  {
+   "id": "AbFvOqkCq8pcWXXEacKVIElYndPcIiI9spRLNbx04g1BUyOXeODxQqyzUhw-mCgWAmsvorEXS6WF",
+   "author": "Restored Movement",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJtq7gsAaMQVjYFHg73IjFYewUtfhVQtLk3imZgzt9f7XkJeQ=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "A fantastic experience from the very first call! RankingCo really helped my small business grow to a steady rate which took a lot of pressure off my shoulders. As a sole owner/operator it’s difficult to juggle my time and energy. Trying to figure out Google ads on my own felt overwhelming and my ad wasn’t very effective. So jumping onboard with the team was a great decision as it didn’t take long at all to see results. Shout out to my direct contact Sarah!! She definitely understood the assignment and a pleasure to work with. (Hey boss, send her bonus) hahaha",
+   "created": "2022-10-17T09:54:26.265386Z",
+   "updated": "2022-10-17T09:54:26.265386Z"
+  },
+  {
+   "id": "AbFvOqkCdJBXJcg7mazwirtYcnBtVQw3iiDCQ4uWjwRUlWqQp1dnxtp7wBYXIGxWC9QbosdSqRBcBg",
+   "author": "Dean Agar",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWouTt6f7iL0fhgb_kf6U5mORu5ciWvUPcg3IvVDniO24_8JX8=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Maddie from Ranking Co has been managing our google ads for around 6 months now and she has done an awesome job. Our bookings from our google ads have now overtaken our bookings that we were gaining from facebook, which is fantastic. They are better quality bookings, I don't have to work so hard to gain the clients and they always arrive excited for their photography experience.\n\nRanking Co is the 3rd company that I have tried for my google ads over the past 10 years and the first to actually get results. Maddie is always trying to improve the ads and get a better CPC. She informs me every step and listens to my needs. Nothing is too much bother for her.\n\nI was about to give up forever on google ads & they happened to cold call me. I decided to give them a try as they were local and sounded professional. I'm very glad I did. I could not be happier.",
+   "created": "2022-10-14T03:49:52.821338Z",
+   "updated": "2022-10-14T03:49:52.821338Z"
+  },
+  {
+   "id": "AbFvOqlsUmjUPmvjvTmLGkjtzLEs7AyHz6P9umRCIyfG01QTqY5I5_QUwosRh_LMy_qpFj2coD5tdg",
+   "author": "Eugene Bradshaw",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjW64PjWlHEFW3ycKF-gMYCudL5f4NlIgyH2jUeDPrPQxgIWHYs=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Very helpful with giving me knowledge about the back end of google adds, definitely keen to work with these guys!",
+   "created": "2022-10-04T13:15:18.870811Z",
+   "updated": "2022-10-06T04:14:39.873982Z"
+  },
+  {
+   "id": "AbFvOqmE1bX2O1wYuQPUOetNsJ9NVEhmSrFnFxhLBlRjNhmKHUYkA5mPlFsjsh6SFuNi-7Q1RNfs",
+   "author": "Scott Broadbridge-Brown",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXTXgyszZuraidNXEZGIPbB810TmUeuoKE5woV9uvxuPONtHOZG=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Ben at RankingCo took the time to understand the challenging trends and variations in the market that I'm in, which resulted in a strong and steady stream of calls from potential customers. My business model and market were new to them, and they managed to learn and understand it fully, and to convert that knowledge into leads.",
+   "created": "2022-09-16T00:04:30.097924Z",
+   "updated": "2022-09-16T00:04:30.097924Z"
+  },
+  {
+   "id": "AbFvOqkJILYJtDlIwyIS8Nik6owJKOMfkZYfKhgkhY0YiEG8wj-vyWJBGAOO2kUCNsfvjLw0sVoWTg",
+   "author": "Salahuddin Dannoun",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjU_IVKUE_KnArj-Vi6Mej9bnlcyy6y74w0L5SaG5VtSqfX4TtE=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I am extremely impressed with the level of service I was provided with especially from Maddy. She has been awesome to work with and always responds quickly and efficiently. Most importantly she has managed to get my cost per conversion down by almost 50% in just the first week ! Thanks heaps and really appreciate the effort and great results.",
+   "created": "2022-08-30T10:53:52.763404Z",
+   "updated": "2022-08-30T10:53:52.763404Z"
+  },
+  {
+   "id": "AbFvOqmqC3dOUkDjClyrfHUXkZu0cGwXHmWVwWA7ruuGLKONVLG1gO9v0_Ou2YX2slmmHQ5-ZygGww",
+   "author": "Adrian Carter",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjXOKLcnamLveQF6SZV2ii9s-S5W4g8vG8jEaPsxaJ7u-Bg_RIky=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "So far I have been extremely impressed with their services in all aspects. Their customer service, support, knowledge & professionalism means I would happily recommend them to any business",
+   "created": "2022-06-21T01:36:26.389314Z",
+   "updated": "2022-06-21T01:36:26.389314Z"
+  },
+  {
+   "id": "AbFvOql107rmgtCs8gPJdxVI2jo1k3A7YX0hSFoouUN2XYU4pzLLIqkybQQwKHSlgnz0HGYXTeUxmA",
+   "author": "Zealand Hatch",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjUQZcmyD67WHyLXwKfbnKKAdTvrnQmL2yVyKgY0_AiZc6mn0xfCyw=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "I highly recommend RankingCo for all of your marketing needs. We use them for SEO and SEM. They have made huge improvements to our website and traffic. Thank you RankingCo for your professional service!",
+   "created": "2022-02-22T05:15:38.976051Z",
+   "updated": "2022-02-22T05:17:28.803939Z"
+  },
+  {
+   "id": "AbFvOql7zEVzMMRpFHP9hNIwAav9bgTGuqi53a_yoemfwAFi6v6whDiNKq4J-JVkoaSZLF6qvIluaQ",
+   "author": "Steve Bielson",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjW9luuYMOu0QcL39w2gy9OF6wQOorB7MpR8HhDbANvVqIqdFiA=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "I'm a small custom motorbike shop in Brisbane and needed help with my Google stuff. They called me and sorted it all out and I'm happy I made the choice to use them. I don't have to think about my stuff online as they do it for me. Stoaked",
+   "created": "2021-07-12T05:23:20.791491Z",
+   "updated": "2021-08-31T05:28:08.566443Z"
+  },
+  {
+   "id": "AbFvOqlK6FX143pok8JAQAntUOTgDTXcakgUj12RwP9x525JJuuH3rRU8Y3n6i4cVGGuS-6uhyLDBg",
+   "author": "Sunshine Sign and Sing",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocKPkoVyTjXhqY4i2g_-RLcQmuGmUkSN4gQa1NMr8NN6nnB9_A=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Amber is amazing! She was very knowledgeable and professional, recognising and adapting to our needs.  She helped us to create our Google My Business page quickly and easily, showing us how to manage and maintain our page with useful tips and suggestions. Her explanations were clear with good visual aids.  I would definitely recommend RankingCo for your digital marketing needs!",
+   "created": "2021-06-17T10:29:19.517630Z",
+   "updated": "2021-06-17T10:29:19.517630Z"
+  },
+  {
+   "id": "AbFvOqn8Z_xiW31yEmkPsQ3hQ098cUuBZzlgQqsnQXnIhghSv4Zz7h1hSoKO87U7ikU-_kqSG1SKXQ",
+   "author": "Ken Craigson",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWMjkaTil92NA2-pETSRCy_92fVxWYufr2xBfQqzaPLPKI7gmI=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "These guys called me out of the blue and normally I tell companies like them to buzz off - but these cats were different - was nice to speak to a quality person who knew what they were talking about for a change.",
+   "created": "2021-06-03T05:44:35.764675Z",
+   "updated": "2021-06-03T05:44:35.764675Z"
+  },
+  {
+   "id": "AbFvOqnrjUVoTHr3i-_qlYQWr2aFkcC0riubXSPebPCdoZkzQoxqdRelhXjcybTwDsp18m5Jn3Qbcg",
+   "author": "Lachlan Mons",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjWmQLRNWynO77InMpyNKbFxOgvGa54N0XuLqvNK3IBHF_klXVY=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "We didn't have the biggest budget but they were able to work within what we did have and have shown us the results to help us increase business and invest more into our advertising. Happy with what's happening in the account",
+   "created": "2021-05-10T23:38:51.550158Z",
+   "updated": "2021-05-10T23:38:51.550158Z"
+  },
+  {
+   "id": "AbFvOqmZkNOBwu5DsBEbTYFHdVCiWuIk89Jst8_wYqxP-_VSuz6OFizLzmIrcdtd3Vo8lpCiDfbB2g",
+   "author": "Daniel Jace",
+   "photo": "https://lh3.googleusercontent.com/a-/ALV-UjW8buR487WSVjMqprv2b2mNJHDxFmXGbDUolZAIk5HxWkX1IUk=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "Good team - happy with them. Keep it up guys!",
+   "created": "2021-05-09T22:57:22.634411Z",
+   "updated": "2021-05-09T22:57:22.634411Z"
+  },
+  {
+   "id": "AbFvOqk2od4PwMR6ZT7QATWHjfEwjOEp3FcH8MemOv5HE_woKW3lshX7RgLgqY07fiX4IDzm85GX",
+   "author": "Justin Anoleck",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJBolwh0ItNMiNPsF_WSYHtXt_rSgUPvTj1MPEZLQ8Z2cJVAw=s120-c-rp-mo-br100",
+   "rating": 5,
+   "text": "RankingCo.. Wow.. The service is amazing, got a fair price and couldn’t believe how efficient the whole process was. Very helpful and zero stress, exactly what we needed.",
+   "created": "2021-02-15T04:12:48.241736Z",
+   "updated": "2021-02-15T04:12:48.241736Z"
+  },
+  {
+   "id": "AbFvOql4WC-tbui7SYettRTx_DqptDIoyLwREOQfAWu2ouYzZpaoPiYtMexrBDiNVNsrdmtpwthR1w",
+   "author": "Paul Meehan",
+   "photo": "https://lh3.googleusercontent.com/a/ACg8ocJ54NkgBUgPyYCZBw-XOH3cNq1bFUhVBAFdErorMtYvWU5OfQ=s120-c-rp-mo-ba12-br100",
+   "rating": 5,
+   "text": "Hands down one of the best experiences.\nSensational service. RankingCo has helped expand and grow our business to new levels\nHighly recommend you won’t be disappointed",
+   "created": "2021-02-13T00:59:41.987380Z",
+   "updated": "2021-02-13T00:59:41.987380Z"
+  }
+ ]
+}
